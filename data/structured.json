@@ -11,7 +11,7 @@
       "MAAGTLANDBELB, CIOLEBOYCENA 737-86-45-0 S77",
       "****** END OF DISCHARGE ORDERS ******"
     ],
-    "time": [
+    "times": [
       "5/23/2003 12:00:00 AM"
     ],
     "admission date": "05/23/2003",
@@ -96,12 +96,9 @@
       "DH",
       "0606127",
       "65761",
-      "4209641",
-      "20031029",
-      "20041101",
-      "42"
+      "4209641"
     ],
-    "time": [
+    "times": [
       "10/29/2003 12:00:00 AM"
     ],
     "report status": [
@@ -110,8 +107,8 @@
     ],
     "name": "SYSCO TAMARCE DOSE",
     "unit number": "372-13-02",
-    "admission date": [],
-    "discharge date": [],
+    "admission date": "20031029",
+    "discharge date": "20041101",
     "principal discharge diagnosis": "Normal Vaginal Delivery",
     "associated diagnoses": "Current Smoker, history of; Depression, history of; Isoimmunization, Rh; Undesired Fertility",
     "principal procedure or operation": "Spontaneous Vertex Vaginal Delivery",
@@ -136,7 +133,7 @@
     "discharge diet": "No Restrictions",
     "postpartum disposition": "Home With Self-Care (Routine Discharge)",
     "postpartum care site": "Uval General Hospital",
-    "postpartum return appointment (days)": [],
+    "postpartum return appointment (days)": "42",
     "breast feeding at discharge": "No",
     "postpartum rh immune globulin": "Given",
     "postpartum measles/mumps/rubella vaccine": "Not Indicated",
@@ -152,7 +149,7 @@
       "431924",
       "****** DISCHARGE ORDERS ******"
     ],
-    "time": [
+    "times": [
       "11/01/2000 12:00:00 AM"
     ],
     "admission date": "11/01/2000",
@@ -204,7 +201,7 @@
       "45395982",
       "934243"
     ],
-    "time": [
+    "times": [
       "10/18/1994 12:00:00 AM"
     ],
     "admission date": "10/18/1994",
@@ -257,7 +254,7 @@
       "31761468",
       "177157"
     ],
-    "time": [
+    "times": [
       "7/19/1992 12:00:00 AM"
     ],
     "admission date": "07/19/1992",
@@ -298,7 +295,7 @@
       "25611102",
       "350195"
     ],
-    "time": [
+    "times": [
       "11/23/1992 12:00:00 AM"
     ],
     "admission date": "11/23/1992",
@@ -367,10 +364,9 @@
       "274230067",
       "EH",
       "11456974",
-      "175762",
-      "2280"
+      "175762"
     ],
-    "time": [
+    "times": [
       "02/04/1990 12:00:00 AM"
     ],
     "admission date": "02/04/1990",
@@ -424,7 +420,7 @@
     ],
     "disposition": [],
     "d": "03/12/90",
-    "batch": [],
+    "batch": "2280",
     "report": "V1412C43",
     "t": "03/14/89"
   },
@@ -438,7 +434,7 @@
       "123524",
       "0144918"
     ],
-    "time": [
+    "times": [
       "6/2/2005 12:00:00 AM"
     ],
     "report status": [
@@ -516,7 +512,7 @@
       "*************************************************",
       "*************************************************"
     ],
-    "time": [
+    "times": [
       "2/20/2006 12:00:00 AM"
     ],
     "admission date": "02/20/2006",
@@ -600,7 +596,7 @@
       "****** DISCHARGE ORDERS ******",
       "JESCBULLSSUBE, SHALL 402-31-92-9 U09"
     ],
-    "time": [
+    "times": [
       "10/29/2003 12:00:00 AM"
     ],
     "admission date": "10/29/2003",
@@ -648,7 +644,7 @@
       "417489",
       "923677"
     ],
-    "time": [
+    "times": [
       "12/18/2001 12:00:00 AM"
     ],
     "report status": "Signed",
@@ -714,7 +710,7 @@
       "32343989",
       "0527629"
     ],
-    "time": [
+    "times": [
       "10/14/2004 12:00:00 AM"
     ],
     "admission date": "10/14/2004",
@@ -772,7 +768,7 @@
       "724509",
       "515882"
     ],
-    "time": [
+    "times": [
       "7/12/2001 12:00:00 AM"
     ],
     "report status": [
@@ -872,7 +868,7 @@
       "542584",
       "8162703"
     ],
-    "time": [
+    "times": [
       "03/06/2004 12:00:00 AM"
     ],
     "report status": [
@@ -945,7 +941,7 @@
       "408920",
       "1960153"
     ],
-    "time": [
+    "times": [
       "2/6/2005 12:00:00 AM"
     ],
     "report status": [
@@ -969,10 +965,9 @@
       "142995994",
       "SC",
       "54818584",
-      "976113",
-      "7505"
+      "976113"
     ],
-    "time": [
+    "times": [
       "1/23/1992 12:00:00 AM"
     ],
     "admission date": "01/23/1992",
@@ -1025,7 +1020,7 @@
       "OP303/0134 NARI BLACK, M.D. SU1"
     ],
     "d": "01/26/92",
-    "batch": [],
+    "batch": "7505",
     "report": "K7798E74",
     "t": "01/27/92"
   },
@@ -1039,7 +1034,7 @@
       "310695",
       "271735"
     ],
-    "time": [
+    "times": [
       "9/15/2000 12:00:00 AM"
     ],
     "report status": [
@@ -1118,7 +1113,7 @@
       "997074",
       "322941"
     ],
-    "time": [
+    "times": [
       "3/25/2001 12:00:00 AM"
     ],
     "report status": [
@@ -1180,7 +1175,7 @@
       "480705",
       "2570997"
     ],
-    "time": [
+    "times": [
       "5/22/2003 12:00:00 AM"
     ],
     "report status": [
@@ -1270,10 +1265,9 @@
       "807558580",
       "EH",
       "82952093",
-      "321002",
-      "3121"
+      "321002"
     ],
-    "time": [
+    "times": [
       "8/26/1993 12:00:00 AM"
     ],
     "admission date": "08/26/1993",
@@ -1318,7 +1312,10 @@
     "disposition": [],
     "dictated by": "STENRESLYSE PAIN, M.D. WZ46",
     "attending": "ETHENIEL LINEAR, M.D. KS36 QM242/2920",
-    "batch": "Index No. FHIUA33D7I",
+    "batch": [
+      "3121",
+      "Index No. FHIUA33D7I"
+    ],
     "d": "09/05/93"
   },
   {
@@ -1330,7 +1327,7 @@
       "41860481",
       "7887481"
     ],
-    "time": [
+    "times": [
       "6/11/2005 12:00:00 AM"
     ],
     "admission date": "06/11/2005",
@@ -1426,7 +1423,7 @@
       "366967",
       "8348653"
     ],
-    "time": [
+    "times": [
       "9/9/2003 12:00:00 AM"
     ],
     "report status": [
@@ -1517,7 +1514,7 @@
       "93142985",
       "6595124"
     ],
-    "time": [
+    "times": [
       "3/29/2005 12:00:00 AM"
     ],
     "admission date": "03/29/2005",
@@ -1573,7 +1570,7 @@
       "823941",
       "3448937"
     ],
-    "time": [
+    "times": [
       "12/11/2004 12:00:00 AM"
     ],
     "report status": [
@@ -1601,7 +1598,7 @@
       "74290530",
       "340769"
     ],
-    "time": [
+    "times": [
       "1/11/1995 12:00:00 AM"
     ],
     "admission date": "01/11/1995",
@@ -1651,7 +1648,7 @@
       "****** DISCHARGE ORDERS ******",
       "SUCH, NORLI 963-97-89-7 G74"
     ],
-    "time": [
+    "times": [
       "4/28/2005 12:00:00 AM"
     ],
     "admission date": "04/28/2005",
@@ -1712,10 +1709,9 @@
       "207132235",
       "SC",
       "51203606",
-      "132775",
-      "91309"
+      "132775"
     ],
-    "time": [
+    "times": [
       "9/20/2000 12:00:00 AM"
     ],
     "admission date": "09/20/2000",
@@ -1779,7 +1775,10 @@
     "followup": "She will have a follow up appointment with Dr. Fuscmadril in four weeks.",
     "dictated by": "ARL STIREDELS, M.D. ZJ05",
     "attending": "EAN L. FUSCMADRIL, M.D. RY2 JE898/7007",
-    "batch": "Index No. DOABVQ3G8W",
+    "batch": [
+      "91309",
+      "Index No. DOABVQ3G8W"
+    ],
     "d": "09/22/00"
   },
   {
@@ -1792,7 +1791,7 @@
       "367017",
       "2170984"
     ],
-    "time": [
+    "times": [
       "11/17/2004 12:00:00 AM"
     ],
     "report status": [
@@ -1897,7 +1896,7 @@
       "55846",
       "685108"
     ],
-    "time": [
+    "times": [
       "1/24/1997 12:00:00 AM"
     ],
     "report status": [
@@ -1920,7 +1919,7 @@
       "92855",
       "715722"
     ],
-    "time": [
+    "times": [
       "3/24/1997 12:00:00 AM"
     ],
     "report status": "Unsigned",
@@ -2021,7 +2020,7 @@
       "HULLEKOTE, AU 329-72-53-3 Z23",
       "****** END OF DISCHARGE ORDERS ******"
     ],
-    "time": [
+    "times": [
       "3/5/2002 12:00:00 AM"
     ],
     "admission date": "03/05/2002",
@@ -2077,7 +2076,7 @@
       "ROHEESCFOOKSKOTE, RUMA 053-62-71-5 T30",
       "****** END OF DISCHARGE ORDERS ******"
     ],
-    "time": [
+    "times": [
       "11/11/2005 12:00:00 AM"
     ],
     "admission date": "Veterans Day",
@@ -2143,12 +2142,9 @@
       "DH",
       "0649031",
       "323495",
-      "3838556",
-      "0649031",
-      "49y",
-      "26596"
+      "3838556"
     ],
-    "time": [
+    "times": [
       "4/5/2003 12:00:00 AM"
     ],
     "report status": [
@@ -2156,8 +2152,8 @@
       "ED DISCHARGE NOTIFICATION/SUMMARY",
       "SELCFARST, NAORLY"
     ],
-    "mrn": [],
-    "age": [],
+    "mrn": "0649031",
+    "age": "49y",
     "registration date": "04/05/2003 11:47 AM",
     "provider": [
       "STIEGE, M.D. TLANDJESC",
@@ -2186,12 +2182,9 @@
       "DH",
       "7186939",
       "866952",
-      "194142",
-      "7186939",
-      "32y",
-      "28039"
+      "194142"
     ],
-    "time": [
+    "times": [
       "10/30/2002 12:00:00 AM"
     ],
     "report status": [
@@ -2199,8 +2192,8 @@
       "ED DISCHARGE NOTIFICATION",
       "KAYSFREIERMVEQUEDUHE, THAATA"
     ],
-    "mrn": [],
-    "age": [],
+    "mrn": "7186939",
+    "age": "32y",
     "registration date": [
       "10/30/2002 07:31 PM",
       "PRELIMINARY REPORT",
@@ -2221,12 +2214,9 @@
       "DH",
       "2177885",
       "62660",
-      "244279",
-      "20020913",
-      "20020915",
-      "42"
+      "244279"
     ],
-    "time": [
+    "times": [
       "9/13/2002 12:00:00 AM"
     ],
     "report status": [
@@ -2236,8 +2226,8 @@
     ],
     "name": "YAM MELCGERLE",
     "unit number": "672-54-57",
-    "admission date": [],
-    "discharge date": [],
+    "admission date": "20020913",
+    "discharge date": "20020915",
     "principal discharge diagnosis": "Normal Vaginal Delivery",
     "associated diagnoses": "Abnormal Pap Test, history of; Depression, history of",
     "principal procedure or operation": "Spontaneous Vertex Vaginal Delivery",
@@ -2259,7 +2249,7 @@
     "discharge diet": "No Restrictions",
     "postpartum disposition": "Home With Self-Care (Routine Discharge)",
     "postpartum care site": "Burnrise Memorial Hospital",
-    "postpartum return appointment (days)": [],
+    "postpartum return appointment (days)": "42",
     "breast feeding at discharge": "No",
     "postpartum rh immune globulin": "Not Indicated",
     "postpartum measles/mumps/rubella vaccine": "Not Indicated",
@@ -2273,11 +2263,9 @@
       "DH",
       "0011649",
       "07013",
-      "908447",
-      "20010614",
-      "20010616"
+      "908447"
     ],
-    "time": [
+    "times": [
       "6/14/2001 12:00:00 AM"
     ],
     "report status": [
@@ -2286,8 +2274,8 @@
     ],
     "name": "XARAH RATIA SERVICE",
     "unit number": "642-07-90",
-    "admission date": [],
-    "discharge date": [],
+    "admission date": "20010614",
+    "discharge date": "20010616",
     "principal discharge diagnosis": "Abnormal Fetal Heart Rate/Rhythm - Delivered",
     "associated diagnoses": "Abnormal Pap Test, history of",
     "principal procedure or operation": "Vacuum Extraction",
@@ -2307,7 +2295,7 @@
       "244794",
       "3998679"
     ],
-    "time": [
+    "times": [
       "7/2/2005 12:00:00 AM"
     ],
     "report status": [
@@ -2358,12 +2346,9 @@
       "DH",
       "8993683",
       "816711",
-      "963035",
-      "8993683",
-      "67y",
-      "42283"
+      "963035"
     ],
-    "time": [
+    "times": [
       "02/25/2001 12:00:00 AM"
     ],
     "report status": [
@@ -2371,8 +2356,8 @@
       "ED DISCHARGE NOTIFICATION",
       "GLYN, AEA"
     ],
-    "mrn": [],
-    "age": [],
+    "mrn": "8993683",
+    "age": "67y",
     "registration date": [
       "02/25/2001 12:20 PM",
       "PRELIMINARY REPORT",
@@ -2393,12 +2378,9 @@
       "DH",
       "7450042",
       "12554",
-      "9224738",
-      "20030109",
-      "20030113",
-      "42"
+      "9224738"
     ],
-    "time": [
+    "times": [
       "1/9/2003 12:00:00 AM"
     ],
     "report status": [
@@ -2408,8 +2390,8 @@
     ],
     "name": "ADEIDRE AUJERIELLE WHIPPLE",
     "unit number": "886-63-46",
-    "admission date": [],
-    "discharge date": [],
+    "admission date": "20030109",
+    "discharge date": "20030113",
     "principal discharge diagnosis": "Vaginal Delivery With First Degree Laceration",
     "associated diagnoses": "Advanced Maternal Age; Anxiety Disorder",
     "principal procedure or operation": "Spontaneous Vertex Vaginal Delivery",
@@ -2433,7 +2415,7 @@
     "discharge diet": "No Restrictions",
     "postpartum disposition": "Home Under Care Of Shingle Geabell Hospital",
     "postpartum care site": "Parklowe Medical Center",
-    "postpartum return appointment (days)": [],
+    "postpartum return appointment (days)": "42",
     "breast feeding at discharge": "Yes",
     "postpartum measles/mumps/rubella vaccine": "Not Indicated",
     "medication (s) on discharge": "Multivitamins And Folate (Stuart Prenatal With Folate)"
@@ -2446,12 +2428,9 @@
       "DH",
       "0145802",
       "292408",
-      "9739205",
-      "0145802",
-      "29y",
-      "79863"
+      "9739205"
     ],
-    "time": [
+    "times": [
       "2/11/2003 12:00:00 AM"
     ],
     "report status": [
@@ -2459,8 +2438,8 @@
       "ED DISCHARGE NOTIFICATION/SUMMARY",
       "DUHETLAND, RIE"
     ],
-    "mrn": [],
-    "age": [],
+    "mrn": "0145802",
+    "age": "29y",
     "registration date": "02/11/2003 02:42 PM",
     "provider": [
       "AMINE GUAYTREFTSCOST",
