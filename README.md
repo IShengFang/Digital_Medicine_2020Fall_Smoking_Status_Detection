@@ -1,1 +1,1 @@
-# Digital_Medicine_2020Fall_Smoking_Status_Detection
+# Digital Medicine 2020 Fall: Smoking Status Detection
