@@ -38,7 +38,7 @@ def parse_raw(folder, savefile=True):
                 for line in fp:
                     line = re.sub(r'\s+([.,:;\?!\])])', r'\1', line.strip())
                     line = re.sub(r'([\[(])\s+', r'\1', line)
-                    line = re.sub(r'\s+(/)\s+', r'\1', line)
+                    line = re.sub(r'\s+(/)\s+', r' \1 ', line)
                     line = re.sub(r'"\s+(.+)\s+"', r'"\1"', line).strip()
 
                     if line.lower() == 'cc:':
