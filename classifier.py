@@ -81,9 +81,9 @@ if __name__ == '__main__':
     train = preprocess.parse_raw('./raw/train', savefile=True)
     test = preprocess.parse_raw('./raw/test', savefile=True)
 
-    smoke = load_words('smoke.txt')
-    no = load_words('neg.txt')
-    stop = load_words('stop.txt')
+    smoke = load_words('./data/smoke.txt')
+    no = load_words('./data/neg.txt')
+    stop = load_words('./data/stop.txt')
 
     correct = 0
     for data in train:
