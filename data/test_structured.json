@@ -1,0 +1,3445 @@
+[
+  {
+    "filename": "TEST_01.txt",
+    "label": -1,
+    "garbage_infos": [
+      "929334185",
+      "8151167",
+      "539442"
+    ],
+    "times": [
+      "5/13/1994 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "5/13/94"
+    ],
+    "discharge date": [
+      "5/16/94"
+    ],
+    "principal diagnosis": [
+      "Hypopharyngeal cancer."
+    ],
+    "principal procedure": [
+      "Removal of left neck lymph node and esophageal endoscopy and dilation."
+    ],
+    "history and reason for admission": [
+      "This is a 69 year-old white male status post surgery in July of 1993 for a laryngopharyngoesophagogastrectomy with gastric reconstruction and modified right neck dissection for pharyngeal cancer.",
+      "Since that surgery, the patient has had dysphagia off and on, solids worse than liquids.",
+      "Sometimes solids get stuck for about 10 minutes.",
+      "About two months ago the patient had come to the emergency room because he couldn 't swallow for three days.",
+      "He required esophageal dilation.",
+      "Also, since July the patient has noted bilateral lymphadenopathy, especially the large submandibular, which has gotten larger.",
+      "It is difficult to get an exact history as to the onset of the lymphadenopathy, as the patient cannot vocalize and is intoxicated at the time of admission.",
+      "The lymphadenopathy is uncomfortable but not painful."
+    ],
+    "past medical history": [
+      "Significant for radiation therapy after his surgery in July, a tracheoesophageal fistula, which was repaired, exploratory laparotomy in November, 1994, for small bowel obstruction, hypertension, colitis, neonatal jaundice, and on September 1, 1993, drainage of a neck abscess.",
+      "He underwent closure of pharyngeal cutaneous fistula with muscle interposition on November 5, 1994, and a left upper lobectomy in September, 1993, for lung cancer."
+    ],
+    "allergies": [
+      "Aspirin."
+    ],
+    "medications on admission": [
+      "None."
+    ],
+    "social history": [
+      "Notable for heavy alcohol use and history of heavy tobacco use, although he quit two years ago."
+    ],
+    "review of systems": [
+      "No fevers or chills, no nightsweats.",
+      "Positive weight gain since his last admission, positive diarrhea times two weeks-soft brown stools.",
+      "Negative bright red blood per rectum, negative coughing, negative hemoptysis, negative hematemesis, negative chest pain, positive shortness of breath with exertion.",
+      "The patient can walk or go up a flight of stairs without any shortness of breath, however."
+    ],
+    "physical examination": [
+      "The patient was a pleasant, mildly intoxicated male with grossly swollen neck.",
+      "He was afebrile with stable vital signs."
+    ],
+    "head, eyes, ears, nose, throat": [
+      "normocephalic, atraumatic, pupils equal, regular and reactive to light and accommodation, extra ocular muscles intact.",
+      "Tongue with multiple white-yellow lesions.",
+      "Neck grossly swollen at the midline and right angle with jaw, unable to fully swallow.",
+      "The lungs were clear to auscultation."
+    ],
+    "heart": [
+      "regular rate and rhythm.",
+      "The abdomen was soft, nontender, nondistended, positive bowel sounds.",
+      "Extremities without clubbing, cyanosis or edema."
+    ],
+    "assessment and plan": [
+      "This 69 year-old male status post laryngopharyngo-esophagogastrectomy for cancer in 05/93 now represents with progressive dysphagia and gross lymphadenopathy and neck mass.",
+      "The patient is mildly intoxicated."
+    ],
+    "hospital course": [
+      "The patient was given overnight hydration.",
+      "He was taken to the operating room on May 14, 1994, for a bronchoscopy and esophagoscopy, dilatation and biopsy.",
+      "His left neck mass was excised and preliminarily was said to be squamous cell carcinoma.",
+      "The patient had esophagoscopy, where a stenosis was noted which was dilated to a # 49 French catheter.",
+      "There were no complications.",
+      "The patient was taken to the floor in stable condition.",
+      "Postoperatively, there was no crepitus and X-rays showed no mediastinal air.",
+      "Neck biopsy site was clean.",
+      "On May 15, the patient 's diet was advanced to a soft diet and then later in the day to a regular diet.",
+      "Radiation Oncology was consulted and it was determined that Mr. Douet still had room for more palliative radiation therapy of his neck, and he arranged an appointment with Dr. Wires on Tuesday following discharge.",
+      "Dr. Wires 's telephone number is 526-6508.",
+      "On May 16, the patient was tolerating PO well, his lungs were clear, and he was discharged to home in stable condition."
+    ],
+    "medications on discharge": [
+      "None."
+    ],
+    "follow-up": [
+      "The patient will follow up with Dr. Wires and Dr. Caslighlourdes.",
+      "STIE FYFE, M.D."
+    ],
+    "dictating for": [
+      "RIEMIND CASLIGHLOURDES, M.D."
+    ],
+    "tr": [
+      "iv/bmot"
+    ],
+    "dd": [
+      "5/16/94"
+    ],
+    "td": [
+      "05/17/94"
+    ]
+  },
+  {
+    "filename": "TEST_02.txt",
+    "label": -1,
+    "garbage_infos": [
+      "325924358",
+      "7061594",
+      "795820",
+      "418796"
+    ],
+    "times": [
+      "08/15/1998 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "discharge summary name": [
+      "TLANDRAC, NI"
+    ],
+    "unit number": [
+      "388-23-03"
+    ],
+    "admission date": [
+      "08/15/1998"
+    ],
+    "discharge date": [
+      "08/22/1998"
+    ],
+    "principal diagnosis": [
+      "Coronary artery disease."
+    ],
+    "associated diagnosis": [
+      "Failed coronary artery bypass graft, prior myocardial infarction, hypertension, elevated cholesterol, renal insufficiency, congestive heart failure."
+    ],
+    "principal procedure": [
+      "08/20/98 dual chamber pacemaker generator change (CPI 1276 Meridian DR)."
+    ],
+    "associated procedures": [
+      "08/15/98 bilateral heart catheterization; 08/15/98 left ventriculography; 08/15/98 bilateral coronary angiography; 08/15/98 bypass graft angiography; 08/15/98 internal mammary artery angiography."
+    ],
+    "medications on discharge": [
+      "Aspirin 325 mg. PO q.d.",
+      "Lipitor 80 mg. PO q.d.",
+      "Toprol XL 50 mg. PO q.d.",
+      "Lasix 80 mg. q.a.m. and 40 mg. q.p.m.",
+      "Potassium chloride 20 mEq. PO b.i.d.",
+      "Citracal 1 packet q.d.",
+      "Imdur 60 mg. PO q.d.",
+      "Vitamin E 400 international units q.d.",
+      "Prilosec 20 mg. PO q.d."
+    ],
+    "history of present illness": [
+      "Breunlinke is a 70-year-old patient of Dr. Brendniungand Asilbekote in California.",
+      "She is referred for progressive angina.",
+      "She had rheumatoid fever as a child and a heart murmur noted but no further testing.",
+      "She has used antibiotic prophylaxis since 1980.",
+      "In 1980 she had quadruple coronary artery bypass graft surgery by Dr. Elks at Feargunwake Otacaa Community Hospital and did well until 1988 when she had exertional angina and a positive stress test and found that three or four grafts were occluded.",
+      "In October, 1989, Dr. No re-did her bypass operation.",
+      "She had a left internal mammary artery graft to the left anterior descending, saphenous vein graft to the obtuse marginal 1 and a saphenous vein graft to the obtuse marginal 2.",
+      "In 1993 she had a DDD pacemaker for complete heart block.",
+      "She had exertional angina at that time.",
+      "In November, 1997 she had a small myocardial infarction as was transferred to Ona Hospital where a cardiac catheterization showed a tight left internal mammary artery to left anterior descending stenosis, high grade saphenous vein graft to obtuse marginal 1 stenosis and patent obtuse marginal 2 graft.",
+      "She had normal left ventricular function with apical tip akinesis.",
+      "Since that time she has continued to have exertional left chest burning, radiating to the left neck and arm, relieved by nitroglycerin.",
+      "She was turned down for re-do surgery at that time and did not have a percutaneous transluminal coronary angioplasty.",
+      "Because these symptoms have been increasing, particularly at cardiac rehabilitation, she was referred here.",
+      "In May, 1998 she had an exercise tolerance test in which her heart rate went to 112 and her blood pressure fell to 95 systolic.",
+      "She had diffuse ischemic ST segment changes and increased lung uptake and a reversible anterior and lateral defect.",
+      "She has had no syncope.",
+      "Her cardiac risk factors are hypertension and elevated cholesterol.",
+      "She has a very strong family history of coronary artery disease with a mother, sister and brother dying of myocardial infarction.",
+      "She is a remote cigarette smoker.",
+      "She also has a history of lactose intolerance, peptic ulcer disease, with a remote gastrointestinal bleed and multiple ectopic pregnancies and mid term miscarriages.",
+      "She has had a total abdominal hysterectomy."
+    ],
+    "social history": [
+      "She is a widow for 20 years and retired 18 years from Palmci",
+      "She lives alone.",
+      "Her son, Nertland is nearby and he works at the Em Nysonken Medical Center on Verville.",
+      "They live in Ohio."
+    ],
+    "physical examination": [
+      "She is a healthy appearing female, 5 foot 120 pounds.",
+      "Her blood pressure was 120/70, pulse 60 and regular.",
+      "Neck veins are not distended.",
+      "Respiratory rate 12."
+    ],
+    "carotids": [
+      "no bruits.",
+      "Lungs were clear."
+    ],
+    "cardiac": [
+      "1/6 systolic ejection murmur.",
+      "Abdomen was benign.",
+      "Peripheral pulses intact.",
+      "Neurological examination non-focal."
+    ],
+    "laboratory data": [
+      "On admission, includes an electrocardiogram that shows DDD pacing.",
+      "Hematocrit 39 percent, white blood cell count 4500, PT and PTT normal.",
+      "Sodium 140, potassium 4.2, chloride 105, carbon dioxide 30, BUN 24, creatinine 1.0."
+    ],
+    "hospital course and treatment": [
+      "The patient was admitted to the Cardiac Catheterization Laboratory.",
+      "There, her pulmonary wedge pressure was 12 and her right atrial pressure was 4 and pulmonary artery pressure 44/17.",
+      "Her left ventricular contraction showed akinesis of the anterior wall with dyskinesis of the apex.",
+      "She had preserved inferior contraction and basal contraction.",
+      "Her native right and left anterior descending vessels were occluded as was an obtuse marginal branch.",
+      "The saphenous vein to the high diagonal or high obtuse marginal was occluded.",
+      "The left internal mammary artery to the left anterior descending was also occluded.",
+      "The saphenous vein graft to the second obtuse marginal was open with no significant stenosis, but there was an outflow lesion in the obtuse marginal 2 as well as severe distal lesion as the obtuse marginal 2 fed the posterior descending artery.",
+      "This was considered her culprit lesion.",
+      "This was considered too high risk for angioplasty because of the severe disease in the graft.",
+      "In addition, it was noted that she had saphenous vein harvested from both thighs.",
+      "Her left internal mammary artery was also unused.",
+      "It was also noted that she had failure to sense with the atrial lead.",
+      "She would not sense the atrial contraction and the fire and this occasionally led to competition of firing.",
+      "This was intermittent.",
+      "The P wave amplitude was.6 and this could not be totally sensed.",
+      "The patient was admitted for management of her coronary artery disease and evaluation of her pacemaker.",
+      "It was noted that she became very symptomatic when she was not on a beta blocker but that on a beta blocker she had significant pacemaker failure.",
+      "Her pacemaker was set to a VVI mode which sensed appropriately.",
+      "She was in sinus rhythm with most of the time.",
+      "When her pacemaker was in a sinus rhythm without a beta blocker, she had significant angina.",
+      "Carotid non-invasive testing was unremarkable.",
+      "The situation was reviewed with Dr. Niste Graft.",
+      "He felt the patient was not a coronary artery bypass graft candidate because of the lack of conduit and because of the presence of a large anterior myocardial infarction.",
+      "For this reason, it was decided to maximize her beta blockers and nitrates.",
+      "The situation was reviewed with Dr. No of the Pacemaker Service.",
+      "On August 20, under local anesthesia the right pectoral region was explored and the leads disconnected and the pulse generator changed to a CPI unit in which the sensitivity could be adjusted to.15 mm., which permitted appropriate atrial sensing.",
+      "There was nothing wrong with the prior generator and nothing wrong with the leads.",
+      "It just needed a unit that could have more sensitivity in the atrial mode.",
+      "She tolerated this well.",
+      "Her medications were resumed.",
+      "She ambulated without difficulty and was discharged to home to be followed medically for her coronary artery disease following two failed bypass graft procedure by Dr. Brendniungand Asilbekote in Bi Masase, KS.",
+      "ACHASTHA N. GRAFT, M.D."
+    ],
+    "tr": [
+      "hfr"
+    ],
+    "dd": [
+      "08/22/1998"
+    ],
+    "td": [
+      "08/27/1998 3:56 P"
+    ]
+  },
+  {
+    "filename": "TEST_03.txt",
+    "label": -1,
+    "garbage_infos": [
+      "143748600",
+      "SC",
+      "43243309",
+      "095342",
+      "****** DISCHARGE ORDERS ******",
+      "FALC, COLL 891-57-52-0 T37",
+      "****** END OF DISCHARGE ORDERS ******"
+    ],
+    "times": [
+      "09/30/2000 12:00:00 AM"
+    ],
+    "admission date": [
+      "09/30/2000"
+    ],
+    "report status": [],
+    "discharge date": [
+      "10/01/2000"
+    ],
+    "room": [
+      "53X-785"
+    ],
+    "service": [
+      "CAR"
+    ],
+    "discharge patient on": [
+      "10/01/00 AT 03:30 PM",
+      "CONTINGENT UPON",
+      "ETT"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "KOTEZUSTLEEB, LIJO LIFLE, M.D."
+    ],
+    "code status": [
+      "Full code"
+    ],
+    "disposition": [
+      "Home"
+    ],
+    "discharge medications": [
+      "ALBUTEROL INHALER 2 PUFF INH QID"
+    ],
+    "instructions": [
+      "PLEASE USE WITH SPACER (PLEASE INSTRUCT PATIENT) ECASA (ASPIRIN ENTERIC COATED) 325 MG PO QD WELLBUTRIN (BUPROPION HCL) 150 MG PO BID GEMFIBROZIL 600 MG PO BID ZESTRIL (LISINOPRIL) 20 MG PO QD ZANTAC (RANITIDINE HCL) 150 MG PO BID SERZONE (NEFAZODONE) 300 MG PO QHS ZYPREXA (OLANZAPINE) 5 MG PO QHS"
+    ],
+    "number of doses required (approximate)": [
+      "4",
+      "GLUCOPHAGE (METFORMIN) 850 MG PO TID Starting ON 10/03/00 (10/03) ACTOS 30 MG PO QD"
+    ],
+    "diet": [
+      "House/ADA 2100 cals/dy"
+    ],
+    "return to work": [
+      "Immediately"
+    ],
+    "follow up appointment (s)": [
+      "Dr. Rotrysbreunkorc 1-2 weeks,"
+    ],
+    "allergy": [
+      "Penicillins"
+    ],
+    "admit diagnosis": [
+      "atypical cp",
+      "PRINCIPAL DISCHARGE DIAGNOSIS; Responsible After Study for Causing Admission) atypical chest pain",
+      "OTHER DIAGNOSIS; Conditions, Infections, Complications, affecting Treatment/Stay dm (diabetes mellitus) anxiety (anxiety) htn (hypertension) gerd (esophageal reflux)"
+    ],
+    "operations and procedures": [
+      "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)"
+    ],
+    "brief resume of hospital course": [
+      "41 yo man with CRFs of DM Type II, high cholesterol, smoking history, family hx, HTN p/w episodes of atypical CP x 1 week, with rest and exertion.",
+      "also has h/o anxiety and GERD.",
+      "No assoicated Sx.",
+      "Here, had T wave flattening laterally and inferiorly with pain that resolved pain free, but not clear that lead placement is the same.",
+      "Had Chest CT to r/o dissection (due to back pain) which was neg.",
+      "Ruled out for MI.",
+      "Will plan on ETT.",
+      "Holding Metformin until Friday due to CT with contrast."
+    ],
+    "additional comments": [
+      "smoking cessation group will contact you at home"
+    ],
+    "discharge condition": [
+      "Stable"
+    ],
+    "to do/plan": [
+      "you will be contacted at home by the smoking cessation program",
+      "No dictated summary"
+    ]
+  },
+  {
+    "filename": "TEST_04.txt",
+    "label": -1,
+    "garbage_infos": [
+      "305265793",
+      "2833679",
+      "688470"
+    ],
+    "times": [
+      "10/20/1992 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "10/20/92"
+    ],
+    "discharge date": [
+      "11/6/92"
+    ],
+    "chief complaint": [
+      "Recurrent cervical cancer with stenosis of mid sigmoid colon, secondary to metastatic disease."
+    ],
+    "history of present illness": [
+      "This 71 year old female with stenotic section of mid sigmoid colon, shown on barium enema, also has diverticular disease.",
+      "The patient complains of intermittent constipation, denies painful or bloody stool.",
+      "The patient had had a recent history of mild ascites, with right adnexal fullness suspicious for ovarian cancer.",
+      "On ultrasound, perirectal and peri-sigmoid, the patient is noted to have heterogeneous abnormal appearance.",
+      "Recently, the patient has experienced abdominal distention, bloating, constipation, and thin stools.",
+      "No fevers or chills."
+    ],
+    "past medical history": [
+      "Notable for hypertension, glaucoma, hiatus hernia."
+    ],
+    "past surgical history": [
+      "An appendectomy, dilation and curettage times two."
+    ],
+    "medications on admission": [
+      "Zantac 150 mg. b.i.d., Metamucil, Tylenol PRN, Timoptic.5 drops b.i.d."
+    ],
+    "social history": [
+      "Stopped smoking 15 years ago."
+    ],
+    "review of systems": [
+      "No shortness of breath, no chest pain."
+    ],
+    "physical examination": [
+      "A white female in no acute distress."
+    ],
+    "the head, eyes, ears, nose, throat exam": [
+      "sclera nonicteric, mouth and pharynx benign.",
+      "The neck was supple, no bruits.",
+      "The chest was clear to auscultation bilaterally."
+    ],
+    "heart": [
+      "regular rate and rhythm, without murmur, rub or gallops."
+    ],
+    "abdomen": [
+      "soft, nontender, positive bowel sounds.",
+      "Appendectomy scar."
+    ],
+    "rectal": [
+      "no masses noted, guaiac negative hard stool."
+    ],
+    "the neurological examination": [
+      "alert and oriented times three.",
+      "The electrocardiogram showed a normal sinus rhythm at 84."
+    ],
+    "hospital course": [
+      "The patient was admitted and brought to the operating room on 10/28/92.",
+      "On operation, widely metastatic ovarian cancer was noted.",
+      "The patient underwent an omentectomy and an ileostomy with exploratory laparotomy.",
+      "The patient lost 250 cc. of blood and greater than one liter of ascites at the time of operation.",
+      "Again widely metastatic ovarian cancer with cake like omentum, spleen encased, ileocecal region and sigmoid colon was noticed at the time of operation.",
+      "The patient tolerated the procedure well, and was taken to the recovery room in good condition.",
+      "On postoperative day # 1 the patient complained of abdominal discomfort.",
+      "The ileostomy was pink and intact.",
+      "Because of low urine output and an episode of tachycardia, the patient was given a 250 cc. bolus of fluid with good results.",
+      "On 10/29, GYN Oncology consult was carried out, who agreed to give her first round of chemotherapy while in the hospital.",
+      "The patient continued to run a low grade temperature which was attributed to atelectasis.",
+      "Her abdomen remained benign and her stoma was pink.",
+      "The urine output was stable and BUN and creatinine were 12/1 respectively.",
+      "By postoperative day # 2, it was noted that the patient was reaccummulating ascitic fluid in her belly.",
+      "The nasogastric tube continued to have some output and it was left in.",
+      "By postoperative day # 3, the patient was feeling better.",
+      "At this time her Foley catheter was removed.",
+      "Her stoma remained pink and in good condition.",
+      "There was stool and flatus noted in the ileostomy bag.",
+      "By postoperative day # 5, the patient 's nasogastric tube was removed and the patient was advanced to a clear liquid diet.",
+      "On 11/3/92, the patient was transferred to the GYN Oncology Service, where over the next two days she was advanced to a regular diet, and was tolerating it well without nausea.",
+      "On 11/4/92, the patient began her chemotherapy regimen of Cyclophosphamide and Cisplatinum.",
+      "She tolerated this 36 hour course of chemotherapy without difficulty and the patient was discharged from the hospital on 11/5/92 in good condition.",
+      "At this time she was afebrile and tolerating a good diet.",
+      "Her ileostomy was pink and functioning.",
+      "The patient was comfortable with her ileostomy care, after having seen the ileostomy care nurse."
+    ],
+    "condition on discharge": [
+      "Good."
+    ],
+    "doctors discharge orders": [
+      "She will follow up with Dr. Wood, her surgeon.",
+      "She will also follow up with Dr. Chabechird, her GYN Oncologist.",
+      "She was given prescriptions for Percocet, Ativan, Compazine, and Benadryl.",
+      "She was instructed to return to her preoperative medications.",
+      "BRENDNIUNGAND ASILBEKOTE, M.D."
+    ],
+    "dictating for": [
+      "ERYJA WOOD, M.D."
+    ],
+    "tr": [
+      "ga/bmot"
+    ],
+    "dd": [
+      "11/6/92"
+    ],
+    "td": [
+      "11/09/92"
+    ]
+  },
+  {
+    "filename": "TEST_05.txt",
+    "label": -1,
+    "garbage_infos": [
+      "819380356",
+      "ELMVH",
+      "41246408",
+      "8044487",
+      "****** DISCHARGE ORDERS ******",
+      "****** END OF DISCHARGE ORDERS ******"
+    ],
+    "times": [
+      "7/1/2005 12:00:00 AM"
+    ],
+    "admission date": [
+      "07/01/2005"
+    ],
+    "report status": [],
+    "discharge date": [
+      "07/02/2005",
+      "SHUFFUPHFOUTCH, MARNYCAM S",
+      "067-24-04-2 L32"
+    ],
+    "room": [
+      "92I-085"
+    ],
+    "service": [
+      "NEU"
+    ],
+    "discharge patient on": [
+      "07/02/05 AT 07:00 PM",
+      "CONTINGENT UPON",
+      "Not Applicable"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "KOTECHIRD, NA RYMOSHE, M.D."
+    ],
+    "disposition": [
+      "Home"
+    ],
+    "discharge medications": [
+      "LISINOPRIL 10 MG PO QD"
+    ],
+    "override notice": [
+      "Override added on 07/01/05 by TERP, SO, M.D. on order for KCL IMMEDIATE RELEASE PO (ref # 01734383)"
+    ],
+    "potentially serious interaction": [
+      "LISINOPRIL and POTASSIUM CHLORIDE"
+    ],
+    "reason for override": [
+      "will monitor GLIPIZIDE XL 5 MG PO QD AGGRENOX (ASPIRIN + DIPYRIDAMOLE) 1 CAPSULE PO BID"
+    ],
+    "number of doses required (approximate)": [
+      "2"
+    ],
+    "diet": [
+      "House/Low chol/low sat. fat"
+    ],
+    "activity": [
+      "Resume regular exercise"
+    ],
+    "follow up appointment (s)": [
+      "Dr. Grippe, neurologist 7/18/05 at 9:00AM scheduled, Dr. Arm, PCP 7/10/05 at 6:15PM scheduled, Sylvwoodaall Health Systems 7/3/05, 24 hrs after discharge from hospital,"
+    ],
+    "allergy": [
+      "NKA"
+    ],
+    "admit diagnosis": [
+      "TIA",
+      "PRINCIPAL DISCHARGE DIAGNOSIS;",
+      "Responsible After Study for Causing Admission) TIA",
+      "OTHER DIAGNOSIS;",
+      "Conditions, Infections, Complications, affecting Treatment/Stay",
+      "TIA"
+    ],
+    "operations and procedures": [
+      "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
+      "Head CT, MRI, MRA - negative for hemorrhage, stroke/infarcts"
+    ],
+    "brief resume of hospital course": [
+      "54 year-old left-handed male with hx of HTN, DM, hyperlipidemia, CAD presented with left-sided throbbing headache, left blurry vision, left arm numbness and tingling lasting < 12hours, transferred from Oma Hospital Medical Center ED to ELMVH for evaluation.",
+      "MRI/MRA/CT was negative for infarcts or hemorrhage.",
+      "Soon after his admission, he had complete resolution of his symptoms with no deficits.",
+      "We continued his home meds for DM, HTN, hyperlipidemia, and added aggrenox for anti-coagulation.",
+      "His cardiac enzymes were negative x2 and ESR was within normal limits.",
+      "He received an echo here, and will be discharged with a Holter monitor to be brought back 24 hours after he leaves the hospital.",
+      "After discussing with him his risk factors for another TIA/stroke, which included his hx of 8 cig/day x29 yrs, we emphasized that it would be important to stop smoking.",
+      "Incidentally, he reported a 14lb weight loss over the past few months concerning because he wasn 't trying to lose weight.",
+      "He was guaiac negative here, and a CXR was normal.",
+      "We asked him to follow-up with his PCP for this."
+    ],
+    "additional comments": [
+      "Please see your primary physian on the date instructed to get referral for neurology before your Neurology appointment."
+    ],
+    "discharge condition": [
+      "Stable"
+    ],
+    "to do/plan": [
+      "1. Neuro - follow-up with stroke clinic neurologist, Dr. Grippe",
+      "2. CVS - follow-up holter and echo results with PCP, Dr. Arm",
+      "No dictated summary"
+    ]
+  },
+  {
+    "filename": "TEST_06.txt",
+    "label": -1,
+    "garbage_infos": [
+      "917563546",
+      "ELMVH",
+      "73397283",
+      "7646550"
+    ],
+    "times": [
+      "1/23/2003 12:00:00 AM"
+    ],
+    "admission date": [],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "01/23/2003"
+    ],
+    "date of discharge": [
+      "01/23/2003"
+    ],
+    "attending": [
+      "SPACE, DOTA Dictation ID 3624752"
+    ],
+    "admitting diagnosis": [
+      "Lumbar spinal stenosis."
+    ],
+    "principal procedure": [
+      "L2 to L5 laminectomy, L2 through L5 posterior fusion with segmental instrumentation."
+    ],
+    "history of present illness": [
+      "The patient is a 50-year-old female with history of low back pain radiating to both legs.",
+      "She had increasing symptoms overtime, not controlled by conservative management.",
+      "She therefore elected to undergo surgical treatment."
+    ],
+    "past medical history": [
+      "Her past medical history is notable for bilateral lower extremity venous insufficiency with edema, hypertension.",
+      "She takes lisinopril/hydrochlorothiazide 20/25 mg p.o. q.d., Vioxx 50 mg p.o. q.d., Lipitor 10 mg p.o. q.d., Nortriptyline 25 mg p.o. q.h.s., Neurontin 300 mg p.o. t.i.d."
+    ],
+    "allergies": [
+      "She has nausea with Codeine otherwise no known drug allergies."
+    ],
+    "past surgical history": [
+      "Past surgical history is notable of D and C in 1980 and cyst excision."
+    ],
+    "habits": [
+      "She denies smoking or alcohol."
+    ],
+    "physical examination": [
+      "On examination, her lungs were clear.",
+      "She had a regular heart rate and rhythm.",
+      "She had 2+ bilateral DP and radial pulses.",
+      "She has mild swelling in both lower extremities.",
+      "She has pain with straight leg raise, left greater than right and 5/5 strength in right quads compared to 4/5 on the left.",
+      "Please see Dr. Uph 's office note for further details."
+    ],
+    "hospital course": [
+      "She was taken to the operating room on 01/16/2003 for decompression at L2, L5 and laminectomy with posterior instrumented fusion at L3 to L5.",
+      "She tolerated the surgery well.",
+      "She was transferred to recovery room in stable condition.",
+      "She received blood transfusions intraoperatively and postoperatively in addition to autologous blood.",
+      "Her hematocrit was stable postoperatively.",
+      "Her neurologic exam was stable postoperatively with 5/5 bilaterally, tibial, EHL, FHL, gastroc soleus, and intact quadriceps.",
+      "She has intact sensation L3 to S1 and bilateral lower extremities.",
+      "She was fitted for Verholl Aet over leg brace and mobilized out of the bed in the brace with physical therapy.",
+      "Her wounds were stable without any erythema or drainage.",
+      "She reported nausea on pain medications.",
+      "Her pain medications were changed around until an acceptable regime was accomplished.",
+      "She is stable for discharge to rehab."
+    ],
+    "discharge activity": [
+      "She should continue to wear the brace when out of bed and there should be no heavy lifting, twisting or bending activities.",
+      "She will need to follow up with Dr. Uph on 02/21/03 at 9:30 a.m."
+    ],
+    "discharge medications": [
+      "Tylenol 650 mg p.o. q.4h. p.r.n., Benadryl 25 mg p.o. q.h.s. p.r.n., Colace 100 mg p.o. q.i.d., Nortriptyline 25 mg p.o. q.h.s., Simvastatin 10 mg p.o. q.h.s., Metamucil one packet p.o. b.i.d. p.r.n., Neurontin 300 mg p.o. t.i.d., Levsinex 0.375 mg p.o. q.12h., Lisinopril/hydrochlorothiazide 20/25 mg p.o. q.d., hydrocortisone topical ointment to affected areas, MS Contin 30 mg p.o. b.i.d., MSIR 15 to 30 mg p.o. q.4h. p.r.n. pain.",
+      "The patient should continue to have dry sterile dressings to her back and iliac crest wounds until follow up with Dr. Uph.",
+      "Should there be any wound erythema or drainage, please contact Dr. Uph 's office immediately."
+    ],
+    "escription document": [
+      "2-7712488 ZNHKjeu Tel"
+    ],
+    "dictated by": [
+      "MAULPLACKAGNELEEB, INACHELLE"
+    ],
+    "d": [
+      "01/23/03"
+    ]
+  },
+  {
+    "filename": "TEST_07.txt",
+    "label": -1,
+    "garbage_infos": [
+      "397829674",
+      "7203504",
+      "502367",
+      "400023"
+    ],
+    "times": [
+      "3/30/1998 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "discharge summary name": [
+      "MSHIERB, NYJO I"
+    ],
+    "unit number": [
+      "213-49-59"
+    ],
+    "admission date": [
+      "03/30/1998"
+    ],
+    "discharge date": [
+      "04/01/1998"
+    ],
+    "principal diagnosis": [
+      "Severe aortic stenosis."
+    ],
+    "associated diagnosis": [
+      "Larynx carcinoma."
+    ],
+    "special procedures and operations": [
+      "1) Percutaneous aortic balloon valvuloplasty."
+    ],
+    "doctor 's discharge orders": [
+      "1) Salagaan 5 mg. PO q.i.d.",
+      "2) Ambien 5 mg. PO q.h.s."
+    ],
+    "history of present illness": [
+      "Mrs. Mshierb is a 73-year-old lady who is under the care of Dr. Ca Shuff and Dr. Ill Kihdaiz with a diagnosis of critical aortic stenosis.",
+      "She sustained an acute myocardial infarction at age 32.",
+      "At that time she was discovered to have a heart murmur.",
+      "She did well until November of this year when she developed new onset of chest pain and lightheadedness.",
+      "She underwent cardiac catheterization which demonstrated no significant coronary artery disease, critical aortic stenosis with a calculated aortic valve area of 0.7 cm. squared.",
+      "She had normal left ventricular systolic function with an ejection fraction of 62 percent.",
+      "Simultaneously she was diagnosed with having an invasive epiglottis squamous cell carcinoma.",
+      "She was treated with both radiotherapy and chemotherapy with good response.",
+      "However she had Area of cancer which will required surgical resection.",
+      "Thus she was referred to us in order to undergo aortic balloon valvuloplasty as a bridge to her larynx surgery."
+    ],
+    "allergies": [
+      "She was diagnosed in the past of allergy to iodine dye."
+    ],
+    "family history": [
+      "She has positive history of coronary artery disease.",
+      "She denies a history of diabetes mellitus, hypertension.",
+      "She has an elevated cholesterol controlled with Zocor."
+    ],
+    "social history": [
+      "She is a former smoker of one pack per day of cigarettes for 63 years."
+    ],
+    "physical examination": [
+      "Revealed a pleasant lady in no acute distress.",
+      "Her blood pressure was 120/60 mm. Hg.",
+      "Her pulse was regular at 80 beats per minute.",
+      "The jugular venous pressure was normal.",
+      "The carotids have delayed upstrokes.",
+      "The jugular venous pressure was normal.",
+      "The chest was clear."
+    ],
+    "cardiac examination": [
+      "revealed an apical impulse in fifth left intercostal space in the mid clavicular line.",
+      "The first sound was normal.",
+      "The second sound was single.",
+      "She has a 3/6 systolic ejection murmur at the upper right sternal border radiating to the neck, left sternal border and the apex.",
+      "She has an S4 at the apex.",
+      "Examination of the abdomen was benign.",
+      "She has a G tube in place.",
+      "Examination of the extremities showed no edema.",
+      "She had good pulses bilaterally."
+    ],
+    "laboratory data": [
+      "Electrocardiogram revealed normal sinus rhythm, left ventricular hypertrophy, with a strain pattern."
+    ],
+    "hospital course and treatment": [
+      "The patient was seen by the Allergy Clinic.",
+      "It was found likely that she has iodine contrast allergy.",
+      "However she was pre-medicated with Prednisone and Benadryl.",
+      "The patient underwent successfully percutaneous aortic balloon valvuloplasty using a 20 mm. balloon catheter.",
+      "With balloon valvuloplasty there was a decrease of her aortic gradient from 17 to 35 mm. Hg. and an increase of her cardiac output from 4.8 to 5.0 liters per minute.",
+      "The patient tolerated the procedure well.",
+      "She required two units of blood transfusion the day following the procedure because of a low hematocrit.",
+      "The patient is discharged stable."
+    ],
+    "follow up": [
+      "She will be followed up by her primary care physician Dr. Ca Shuff.",
+      "A follow up echocardiogram will be performed as an outpatient.",
+      "RENLAN N. DYE, M.D."
+    ],
+    "tr": [
+      "rjb"
+    ],
+    "dd": [
+      "04/01/1998"
+    ],
+    "td": [
+      "04/01/1998 11:14 A"
+    ]
+  },
+  {
+    "filename": "TEST_08.txt",
+    "label": -1,
+    "garbage_infos": [
+      "677051476",
+      "4871976",
+      "826393"
+    ],
+    "times": [
+      "1/11/1992 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "01-11-92"
+    ],
+    "discharge date": [
+      "01-22-92"
+    ],
+    "principal diagnosis": [
+      "Gastric carcinoma"
+    ],
+    "associated diagnosis": [
+      "hypothyroidism following near total thyroidectomy."
+    ],
+    "principal procedure": [
+      "On 1/12/92 near total gastrectomy with retrocolic Bill-Roth II gastrojejunostomy, portal node dissection, repair of ventral hernia, and needle jejunostomy tube placement."
+    ],
+    "other procedures": [
+      "None"
+    ],
+    "history of present illness": [
+      "Ms. Tikrhalt is an 86 year old female, previously healthy, who presents with a 3 month history of dysphagia.",
+      "A subsequent workup including upper gastrointestinal series and abdominal computerized tomography scan suggested the presence of a gastric mass.",
+      "Endoscopy with biopsy revealed gastric carcinoma, poorly differentiated, within the body of the stomach along the greater curvature.",
+      "She was subsequently referred to Dr. Ko for a possible resection of this carcinoma.",
+      "She reports a 10 pound weight loss over the past several months.",
+      "She denies any abdominal pain."
+    ],
+    "past medical history": [
+      "Significant for an appendectomy in the distant past, cholecystectomy in the past, history of of Cesarean section in the past and a history of near total thyroidectomy for nodular goiter in the past."
+    ],
+    "medications on admission": [
+      "Her only medication is Thyrolar for her relative hypothyroidism following resection.",
+      "There is a question of an allergy to Tylenol.",
+      "She denies any history of hypertension, diabetes mellitus, coronary artery disease or peptic ulcer disease.",
+      "Interestingly, she reports that both her mother and father died of stomach carcinoma.",
+      "She is a former smoker, and drinks alcohol occasionally."
+    ],
+    "physical examination": [
+      "On physical examination she is an elderly but spry white female in no acute distress.",
+      "Her sclera were nonicteric.",
+      "Her oropharynx was clear.",
+      "Her neck was supple without masses or bruits noted.",
+      "Her lungs were clear to auscultation.",
+      "Her cardiac examination was unremarkable.",
+      "Examination of her abdomen revealed a flat nontender abdomen without palpable masses.",
+      "There were multiple well healed surgical scars.",
+      "She was guaiac negative.",
+      "There was no cva tenderness or spinal tenderness noted.",
+      "Her pulses were intact throughout."
+    ],
+    "laboratory data": [
+      "Sodium 139, potassium 3.7 and BUN of 19.",
+      "Her hematocrit was 37.2 with a white blood count of 6.6.",
+      "Her Bilirubin direct and total were 0.1 and 0.3 respectively.",
+      "Her alkaline phosphatase was 134.",
+      "Her electrocardiogram demonstrated normal sinus rhythm without acute ischemic changes.",
+      "Chest X-Ray was unremarkable.",
+      "The assessment at the time of admission was that of an 86 year old female with poorly differentiated gastric adenocarcinoma, admitted for resection."
+    ],
+    "hospital course": [
+      "The patient was admitted to the Service of Dr. Fede A. Duhenile.",
+      "On 1/12/92 she was taken to the operating room where she underwent a neart total gastrectomy with a retrocolic Bill-Roth II gastrojejunostomy reconstruction.",
+      "In addition a small ventral hernia was noted upon abdominal exploration within a previous surgical incision.",
+      "This was repaired.",
+      "A needle jejunostomy catheter was placed at the time of her operation to facilitate postoperative nutrition.",
+      "With regards to the cancer, there was a large mass along the greater curvature in the body of the stomach, and several perigastric lymph nodes which were taken with the specimen.",
+      "In addition, there were at least two lymph nodes within the porta hepatis which were dissected free and taken en bloc with the specimen.",
+      "The remainder of her abdomen was unremarkable without evidence of metastatic spread elsewhere, including the liver.",
+      "The patient tolerated the procedure well and was taken to the recovery room in good condition.",
+      "The patient 's postoperative course was for the most part unremarkable.",
+      "Her wounds healed well without incident and the needle jejunostomy tube was utilized on the first postoperative day right up until the time of discharge, infusing Vivonex T.E.N.",
+      "The patient tolerated this without difficulty.",
+      "The patient 's nasogastric tube was removed on the 3rd postoperative day, and with the passage of flatus and good bowel sounds noted, she was started on a liquid diet which was advanced slowly.",
+      "She was seen by the dietician and was advised with regard to needing numerous small meals during the day rather than 3 larger meals as she previously was used to.",
+      "Her ambulation and mobilization increased gradually and by the time of discharge she was walking in the halls without assistance.",
+      "As mentioned, her wounds healed well without incident and the staples were removed on the 10th postoperative day just prior to discharge.",
+      "She had some difficulties with confusion in the early postoperative period which were attributable to her advanced age and a sundowning effect.",
+      "These problems resolved by the 4th or 5th postoperative day and she remained lucid and alert for the remainder of her hospital stay.",
+      "Surgical pathology report was completed prior to discharge which revealed poorly differentiated adenocarcinoma ulcerating and extending through the wall into the serosa of the stomach.",
+      "Metastatic carcinoma was present in 3 of 3 lymph nodes.",
+      "The gastric resection margins were free of carcinoma.",
+      "The patient was set for discharge on the 11th postoperative day doing well.",
+      "On the day prior to discharge she complained of some dysuria, a urine specimen was obtained, which showed numerous white cells consistent with a urinary tract infection.",
+      "She was started empirically on Bactrim, while culture and sensitivity results were pending and remained pending at the time of this dictation.",
+      "She will be discharged to home and will be seen in follow-up by her regular physicians as well as Dr. Ko."
+    ],
+    "medications on discharge": [
+      "Bactrim, single strength, one p.o. b.i.d. times 10 days, initiated 9/27/92, Synthroid 0.1 mg p.o. q.day, Ferrous Gluconate 300 mg p.o. t.i.d. and Folate 1 mg p.o. q. day.",
+      "She will be seen by Visiting Nurses Association to help with general aspects of daily living as well as adequate diet planning following her gastric resection.",
+      "TOMEDANKELL FLOWAYLES, M.D."
+    ],
+    "tr": [
+      "cdw/bmot"
+    ],
+    "dd": [
+      "01-21-92"
+    ],
+    "td": [
+      "01/22/92"
+    ]
+  },
+  {
+    "filename": "TEST_09.txt",
+    "label": -1,
+    "garbage_infos": [
+      "788268693",
+      "DH",
+      "7258512",
+      "020586",
+      "0831510"
+    ],
+    "times": [
+      "4/30/2005 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION/SUMMARY",
+      "FREIERMDREPS, RI"
+    ],
+    "mrn": [
+      "7258512"
+    ],
+    "age": [
+      "44y"
+    ],
+    "registration date": [
+      "04/30/2005 02:55 PM"
+    ],
+    "provider": [
+      "RONRIN SHUFF",
+      "PRELIMINARY REPORT"
+    ],
+    "benefits assigned": [
+      "Y"
+    ],
+    "discharge note date/time": [
+      "04/30/2005 15:49"
+    ],
+    "discharge status": [
+      "Discharged"
+    ],
+    "condition on discharge": [
+      "Stable"
+    ],
+    "patient states complaint": [
+      "R ELBOW INJURY"
+    ],
+    "standardized discharge instructions": [
+      "The patient was given printed instructions for sprains, fractures and bruises (English).",
+      "The patient was given a work note (English)."
+    ],
+    "diagnosis": [
+      "R elbow strain"
+    ],
+    "treatment rendered": [
+      "xray - no evidence of effusion or fracture"
+    ],
+    "discharge medications": [
+      "motrin 400-600 mg every 8 hours as needed for pain"
+    ],
+    "follow up service": [
+      "It is recommended that you receive follow-up care with the Department of Orthopaedics if your symptoms are not improved in 5-7 days.",
+      "Please call (890) 541-3008 to schedule an appointment.",
+      "For managed care plans, check with your PCP before making this appointment."
+    ],
+    "disposition, follow up and instructions to patient": [
+      "Use ice to sore areas for the next few days.",
+      "Do no strenuous activity until your symptoms are improved.",
+      "Do gentle range of motion exercises for the next few days."
+    ],
+    "pcp name": [
+      "CREDKOTE, ALEN"
+    ]
+  },
+  {
+    "filename": "TEST_10.txt",
+    "label": -1,
+    "garbage_infos": [
+      "955473368",
+      "RWH",
+      "6338463",
+      "307931",
+      "091607"
+    ],
+    "times": [
+      "9/18/2000 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "LOAN, LYKEY"
+    ],
+    "unit number": [
+      "074-08-97"
+    ],
+    "admission date": [
+      "09/18/2000"
+    ],
+    "discharge date": [
+      "09/19/2000"
+    ],
+    "principal diagnosis": [
+      "Infected abdominal wall prosthesis.",
+      "ASSOCIATED DIAGNOSES:: 1.",
+      "Diabetes mellitus."
+    ],
+    "principal procedure:": [
+      "Removal of infected Gore-Tex patch and repair of recurrent ventral hernia on 9-18-00."
+    ],
+    "history of present illness": [],
+    "reason for hospitalization": [
+      "The patient is a 44 year old man who had initial umbilical hernia repair, which had recurred.",
+      "He had a second ventral hernia repair which was performed with Gore-Tex patch.",
+      "Patient subsequently had an area of suture protruding through the abdomen with inflammation around it.",
+      "The suture was removed, patient subsequently developed some cellulitis which was treated with antibiotics.",
+      "Patient then developed another open area with some drainage.",
+      "He now presents for removal of the prosthesis and primary repair of the hernia.",
+      "Patient denies any fevers, chills."
+    ],
+    "past medical history": [
+      "Diabetes mellitus."
+    ],
+    "past surgical history:": [
+      "1. As above.",
+      "2. Pancreatic pseudocyst, status post resection x 2 in 1997."
+    ],
+    "medications on admission": [
+      "1. Insulin NPH, 75 Units at 11 AM and 35 Units at 11 PM."
+    ],
+    "allergies": [
+      "no known drug allergies."
+    ],
+    "family history:": [],
+    "social history": [
+      "Patient does not smoke or drink."
+    ],
+    "physical examination:": [
+      "Patient is an obese male in no acute distress."
+    ],
+    "lungs": [
+      "clear."
+    ],
+    "heart": [
+      "regular."
+    ],
+    "abdomen": [
+      "obese.",
+      "There is a well-healed transverse midline incision superior to the umbilicus.",
+      "there is a small open area with some drainage.",
+      "There is no real evidence of cellulitis.",
+      "Extremities are without edema."
+    ],
+    "hospital course and treatment": [
+      "; 44 year old gentleman with infected Gore-Tex patch, now coming in for removal of the patch and primary repair of his hernia.",
+      "The patient was admitted on the day of surgery and underwent removal of his infected Gore-Tex mesh and primary repair of the defect.",
+      "Patient was covered preoperatively and postoperatively with Ancef.",
+      "He was taken to the post-anesthesia care unit and then transferred to the floor in good condition.",
+      "Postoperative course was unremarkable, and was discharged on postoperative day.",
+      "On this day, he was without complaints.",
+      "He was afebrile.",
+      "He was taking PO 's and voiding.",
+      "Abdominal exam revealed a dressing which was dry and intact.",
+      "He was discharged home.",
+      "CONDITION ON DISCHARGE:: Good."
+    ],
+    "medications on discharge:": [
+      "1. Resume prehospitalization medications.",
+      "2. Percocet, 1-2 tabs PO q4h. PRN pain.",
+      "3. Keflex, 500 mg. PO QID x 7 days."
+    ],
+    "doctors discharge orders/instrctions": [
+      "Patient should follow up with Dr. Sweet.",
+      "________________ RIALE TABLES, M.D.",
+      "Electronically Signed VITA THOSTERWEN LINKEKOTEMONES, M.D. 10/13/2000 12:57"
+    ],
+    "tr": [
+      "kax"
+    ],
+    "dd": [
+      "09/19/2000"
+    ],
+    "td": [
+      "09/20/2000 2:08 P"
+    ]
+  },
+  {
+    "filename": "TEST_11.txt",
+    "label": -1,
+    "garbage_infos": [
+      "356529973",
+      "2102647",
+      "481088"
+    ],
+    "times": [
+      "7/9/1993 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "7-9-93"
+    ],
+    "discharge date": [
+      "7-15-93"
+    ],
+    "principal diagnosis": [
+      "Ovarian mass."
+    ],
+    "associated diagnosis": [
+      "Papanicolaou smear positive for somomabodies, incontinence."
+    ],
+    "principal procedure": [
+      "Total abdominal hysterectomy, bilateral salpingo-oophorectomy, lysis of adhesions, open laparoscopy, Birch procedure, suprapubic bladder catheter placement."
+    ],
+    "history of present illness": [
+      "The patient is a 52 year old female with gravida 3 para 3 who presents with complains of abdominal pain and enlarged ovary by ultrasound.",
+      "The patient is also complaining of several years urinary incontinence.",
+      "The patient 's recent history is also notable for a Papanicolaou smear which revealed somomabodies.",
+      "The patient also had vaginal bleeding in April 1992 following radiation therapy.",
+      "The patient initially presented with hypercalcemia and underwent a parathyroidectomy on June 22, 1993.",
+      "It was at that time that her abnormal Papanicolaou smear was obtained.",
+      "The patient is now admitted for exploratory laparotomy."
+    ],
+    "past medical history": [
+      "The past medical history is notable for lymphosarcoma in 1970.",
+      "She was treated with radiation therapy.",
+      "In 1980, the patient had a left axillary recurrence that was treated with radiation therapy.",
+      "The patient also has a history of hyperparathyroidism secondary to papillary thyroid cancer.",
+      "The history is also notable for gallstones, kidney stones, episodic tachycardia, chronic pancreatitis.",
+      "Of note, the patient also has a history of incontinence.",
+      "The patient also has hypothyroidism."
+    ],
+    "past surgical history": [
+      "The patient 's past surgical history is notable for the removal of a thyroid nodule in February 1989.",
+      "This revealed papillary thyroid cancer and the patient received radioactive iodine ablation.",
+      "In June 1993, the patient had a parathyroidectomy and also of note, in September 1992, the patient had an exploratory laparotomy for pain and chronic pancreatitis."
+    ],
+    "medications on admission": [
+      "Include Librax 1 PO before meals, Pancrease 2 tabs before meals, Synthroid 0.125 mg PO qd.",
+      "Tenormin 50 mg bid, Valium 5 mg bid to tid, Premarin 0.625 mg qd, Provera 2.5 mg qod, Desyrel 50 mg qhs."
+    ],
+    "allergies": [
+      "The patient 's allergies include Septra."
+    ],
+    "social history": [
+      "The patient 's social history is notable for a heavy smoking history.",
+      "She is interested in quitting smoking.",
+      "The patient has no history of alcohol abuse."
+    ],
+    "physical examination": [
+      "The patient 's preoperative examination is notable for normal breasts, normal heart and lungs.",
+      "The pelvic examination is normal except for the presence of a full right ovary.",
+      "The rectovaginal examination is normal."
+    ],
+    "hospital course": [
+      "The patient was judged to be at risk secondary to her history of somomabodies and vaginal bleeding.",
+      "Her differential diagnosis included ovarian cancer.",
+      "The patient was admitted on July 9 to the operating room.",
+      "She underwent an open laparoscopy, total abdominal hysterectomy, bilateral salpingo-oophorectomy, lysis of adhesions, Birch procedure, and suprapubic Foley catheter placement and Jackson-Pratt drain placement.",
+      "The estimated blood loss was 300 cc.",
+      "There were no complications during the procedure and the patient returned to the recovery room in stable condition.",
+      "Postoperatively, the patient did well.",
+      "Her calcium was followed daily and repleted as needed.",
+      "Her Jackson-Pratt drain was removed on postoperative day number two.",
+      "The patient had a temperature of 101.6 on postoperative day two.",
+      "Her lungs revealed coarse breath sounds.",
+      "She was encouraged to ambulate and deep breath.",
+      "The patient was started on nebulizer treatment.",
+      "The patient did well and her suprapubic tube was clamped starting on postoperative day four.",
+      "The patient voided spontaneously.",
+      "Clamping continued until postoperative day six.",
+      "At this time, her post-void residuals range from 2 cc to 25 cc.",
+      "The suprapubic tube was therefore discontinued.",
+      "By postoperative day six, the patient was also tolerating a regular diet and passing flatus.",
+      "A chest X-ray was performed secondary to the patient 's coarse breath sounds, however, the chest X-ray was clear except for a small amount of atelectasis.",
+      "The patient was discharged home.",
+      "final pathology revealed right Fallopian tube and ovary with benign paratubal cysts and adhesions.",
+      "The cervix revealed squamous metaplasia.",
+      "The patient was discharged home on admission medications.",
+      "In addition, she will take Ciprofloxacin for nine more days.",
+      "She will also take Percocet."
+    ],
+    "disposition": [
+      "The patient is discharged to home and is to follow up with Dr. Cancer, as well as Dr. Kotefold and Dr. Cancer.",
+      "KITRI CURB, M.D."
+    ],
+    "dictating for": [
+      "EARNRA CANCER, M.D."
+    ],
+    "tr": [
+      "nx/bmot"
+    ],
+    "dd": [
+      "07-15-93"
+    ],
+    "td": [
+      "07/16/93"
+    ]
+  },
+  {
+    "filename": "TEST_12.txt",
+    "label": -1,
+    "garbage_infos": [
+      "664046245",
+      "ELMVH",
+      "12345681",
+      "1221594",
+      "****** FINAL DISCHARGE ORDERS ******"
+    ],
+    "times": [
+      "06/13/2005 12:00:00 AM"
+    ],
+    "admission date": [
+      "06/13/2005"
+    ],
+    "report status": [],
+    "discharge date": [
+      "06/15/2005",
+      "PAN, CALEOALE L",
+      "323-19-54-3 O69"
+    ],
+    "room": [
+      "41W-284"
+    ],
+    "service": [
+      "VAS"
+    ],
+    "discharge patient on": [
+      "06/14/05 AT 12:00 PM",
+      "CONTINGENT UPON",
+      "HO evaluation"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "SELCJESCPINT, RYBAM, M.D."
+    ],
+    "disposition": [
+      "Home w/ services"
+    ],
+    "discharge medications": [
+      "ACETYLSALICYLIC ACID 325 MG PO QD VICODIN (HYDROCODONE 5 MG + APAP) 1 TAB PO Q6H PRN Pain LIPITOR (ATORVASTATIN) 20 MG PO QD Starting Today (06/15) ATENOLOL 25 MG PO QD KLONOPIN (CLONAZEPAM) 0.5 MG PO QD Starting Today (06/15) PRN Anxiety"
+    ],
+    "diet": [
+      "No Restrictions"
+    ],
+    "activity": [
+      "Walking as tolerated"
+    ],
+    "lift restrictions": [
+      "Do not lift greater then 10 pounds"
+    ],
+    "follow up appointment (s)": [
+      "Dr. Felty (818-830-8869) call to be seen in 1-2 weeks.,"
+    ],
+    "allergy": [
+      "NKA"
+    ],
+    "admit diagnosis": [
+      "PVD",
+      "PRINCIPAL DISCHARGE DIAGNOSIS;",
+      "Responsible After Study for Causing Admission) PVD",
+      "OTHER DIAGNOSIS;",
+      "Conditions, Infections, Complications, affecting Treatment/Stay",
+      "dyslipidemia, HTN, carotid occlusive dz, h/o pyloric stenosis"
+    ],
+    "operations and procedures": [
+      "06/13/05 FELTY, LYNDROHE, M.D. LT FEMORAL ENDARTERECTOMY",
+      "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
+      "none"
+    ],
+    "brief resume of hospital course": [
+      "66 yo M h/o stable carotid occlusive disease, HTN, dyslipidemia, and past smoking presents w/ progressive LLE claudication x1.5 y.",
+      "Now unable to walk more than 50-100 ft (previously walked 2-3 mi/d).",
+      "No hx of rest pain or non-healing ulcers.",
+      "MRI of spine to r/o sciatica and spinal stenosis normal.",
+      "MRA (5/29/05) showed 2cm long severe stenosis in L CFA, mild-mod stenosis of L EIA, segmental stenosis of proximal L AT w/ good 2 vessel run-off.",
+      "Also focal mod-severe stenoses of R CIA, CFA, SMA, and renal arteries.",
+      "R-ABI 0.9, L-ABI 0.8 (06/06/05)."
+    ],
+    "pulses at baseline (by palp)": [
+      "L pop strong, R pop trace, L DP/PT weak, R DP/PT absent.",
+      "Elects surgical intervention b/c of effect of claudication on lifestyle.",
+      "Presents today for L CFA and proximal SFA endarterectomy and bovine pericardium patch angioplasty."
+    ]
+  },
+  {
+    "filename": "TEST_13.txt",
+    "label": -1,
+    "garbage_infos": [
+      "060514276",
+      "SC",
+      "52175844",
+      "023928"
+    ],
+    "times": [
+      "2/17/2000 12:00:00 AM"
+    ],
+    "admission date": [
+      "02/17/2000"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "02/29/2000"
+    ],
+    "principal diagnosis": [
+      "ACUTE PANCREATITIS."
+    ],
+    "secondary diagnosis": [
+      "GASTROESOPHAGEAL REFLUX DISEASE."
+    ],
+    "history of present illness": [
+      "Ri Strength is a 40 year old man with a history of GERD, who presents with abdominal pain of seven days duration.",
+      "The patient was in general good health until seven days ago (2/11/00), when he had a sudden onset of sharp left flank pain with radiation to the lower abdomen and then to the epigastrium.",
+      "The patient described the pain as \"knife-like\" with a severity of 1/25 at its worse.",
+      "The patient was exacerbated when eating and when lying flat.",
+      "The patient also reports blood-streaked diarrhea for two days.",
+      "He denies nausea and vomiting.",
+      "He has had no fevers or chills.",
+      "He has had no recent weight loss, no light-headedness or dizziness.",
+      "He denies increased urinary frequent or urgency.",
+      "The patient presented to the Sloan- Center Emergency Department, where he was resuscitated with normal saline and received morphine for pain.",
+      "He was then transferred to the general medicine service for further management."
+    ],
+    "past medical history": [
+      "(1) GERD; (2) Pneumonia with partially collapsed lung in 1999."
+    ],
+    "past surgical history": [
+      "None."
+    ],
+    "medications": [
+      "Prilosec 20 mg p.o. q.d."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "family history": [
+      "GERD and PUD."
+    ],
+    "social history": [
+      "The patient currently lives in Son Wooda with his wife.",
+      "He has been a construction worker for the past 20 years.",
+      "The patient admits to smoking one pack of cigarettes per day.",
+      "The patient has a history of excessive alcohol use.",
+      "He currently drinks 10 beers every other day."
+    ],
+    "physical examination": []
+  },
+  {
+    "filename": "TEST_14.txt",
+    "label": -1,
+    "garbage_infos": [
+      "997390203",
+      "69360664",
+      "5262027"
+    ],
+    "times": [
+      "06/09/2004 12:00:00 AM"
+    ],
+    "admission date": [
+      "06/09/2004"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "06/15/2004"
+    ],
+    "attending": [
+      "LINKEJESC, STYFI Dictation ID 6880872"
+    ],
+    "status at discharge": [
+      "Deceased."
+    ],
+    "history of present illness": [
+      "Briefly this a 65-year-old gentleman with a history significant for lung cancer status post complete right pneumonectomy in 1997, COPD, past tobacco use, atrial fibrillation, prostate adenocarcinoma, and multiple pulmonary infections who presented to the New Wishwarm Medical Center 's Emergency Room with shortness of breath on three occasions in May.",
+      "On the final occasion, he was admitted and was placed in the medical intensive care unit where he acquired intubation for severe pulmonary infection and acute respiratory distress syndrome."
+    ],
+    "hospital course": [
+      "He had a difficult hospital course, the details of which can be found in the written chart.",
+      "He had a rapid decompensation in his status on 06/14/04 in the setting of feeding tube placement, malpositioned.",
+      "Despite aggressive measures, he could not be stabilized.",
+      "His family elected to change his current status DNR/DNI and he passed away in their presence on the morning of 06/15/04.",
+      "An autopsy was consented to and has been performed.",
+      "Again please see the medical chart for details of the hospital course."
+    ],
+    "escription document": [
+      "1-5733522 GDNvvu Tel"
+    ],
+    "dictated by": [
+      "KOTERUDES, CONRELLIE"
+    ],
+    "d": [
+      "06/25/04"
+    ]
+  },
+  {
+    "filename": "TEST_15.txt",
+    "label": -1,
+    "garbage_infos": [
+      "405728860",
+      "7150860",
+      "994032"
+    ],
+    "times": [
+      "1/3/1994 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "1-3-94"
+    ],
+    "discharge date": [
+      "1-9-94"
+    ],
+    "principal diagnosis": [
+      "Mediastinal tumor mass."
+    ],
+    "associated diagnosis": [
+      "History of colon cancer, chronic obstructive pulmonary disease, obesity, hypertension, history of myocardial infarction."
+    ],
+    "special procedures and operations": [
+      "January 3, 1994, median sternotomy with mediastinal exploration, radical resection of tumor and aortopulmonary window; partial resection of adjacent lung, en bloc resection of vagus and phrenic nerves; partial pericardectomy; fiberoptic bronchoscopy."
+    ],
+    "history of present illness": [
+      "The patient is a 66 year old white female with metastatic colon carcinoma with a mass in the left superhilar region, who presents for bronchoscopy, mediastinal exploration and resection.",
+      "The patient was in her usual state of health until she experienced the onset of abdominal pain in early 1992.",
+      "In December of 1992, she underwent a transverse colectomy for colon carcinoma which was Duke 's grade B-II, lymph nodes were negative.",
+      "She received postoperative chemotherapy.",
+      "In September of 1992, she underwent an exploratory laparotomy because of an increased level of CEA in her blood with the presence of a liver abnormality on computerized tomography scan.",
+      "The exploratory laparotomy was negative.",
+      "She continued to have a rise in her CEA level which prompted a further work up.",
+      "In September of 1993, an abdominal and pelvic computerized tomography scan was negative and in June of 1993, she had a negative bone scan.",
+      "In December of 1994, a thoracic computerized tomography scan showed a four centimeter soft tissue mass on the left suprahilar region, adjacent to the aortopulmonary window.",
+      "She also experienced increased hoarseness over the preceding months, which was due to left vocal cord paralysis.",
+      "She also complains of increased shortness of breath for the preceding month and now presents for mediastinal exploration and resection of her probable metastatic mass."
+    ],
+    "past medical history": [
+      "The patient has a history of hypertension, coronary artery disease, previous myocardial infarction in 1983, hypothyroidism, history of breast cancer and history of colon cancer."
+    ],
+    "past surgical history": [
+      "The past surgical history is notable for a 1971 mastectomy on the right, 1937 appendectomy, 1991 cholecystectomy, 1992 transverse colectomy, 1992 exploratory laparotomy, 1991 bilateral cataract surgery."
+    ],
+    "medications on admission": [
+      "Levoxine 0.125 mg PO q.day, Vasotec 10 mg PO b.i.d., Maxzide 75/50, 30 mg PO q.day."
+    ],
+    "allergies": [
+      "The patient is allergic to sulfa."
+    ],
+    "habits": [
+      "50 pack year smoking history, still smoking currently."
+    ],
+    "ethanol": [
+      "none."
+    ],
+    "physical examination": [
+      "On physical examination, she is an obese white female in no acute distress with a hoarse voice.",
+      "The head, eyes, ears, nose, throat examination shows that she is normocephalic, atraumatic, extra ocular movements are intact, pupils equal, round, reactive to light and accommodation, and the oropharynx was clear, neck was supple without lymphadenopathy, either axillary or supraclavicular.",
+      "Chest is clear with decreased breath sounds at the left base.",
+      "She has a previous right mastectomy."
+    ],
+    "cardiovascular exam": [
+      "regular rate and rhythm, without murmur, rub or gallop."
+    ],
+    "abdomen": [
+      "obese with multiple well healed surgical incisions, positive bowel sounds.",
+      "The rectal examination is guaiac negative without masses."
+    ],
+    "extremities": [
+      "no clubbing, cyanosis or edema.",
+      "The neurological examination is nonfocal."
+    ],
+    "hospital course": [
+      "The patient was admitted to the Fairm of Ijordcompmac Hospital.",
+      "The patient was brought to the Operating Room on January 3, 1994 where she underwent a median sternotomy with removal of her mediastinal mass.",
+      "This mass was situated in the aortopulmonary window and was sent to pathology.",
+      "The frozen section analysis revealed this to be adenocarcinoma, metastatic disease from the colon most likely.",
+      "She had a chest tube placed intraoperatively and another placed postoperatively in the recovery room, for what was presumed to be a left pleural effusion.",
+      "This tube drained only a small amount of fluid and it was likely that the effusion was made to look more severe in the presence of left hemidiaphragm elevation.",
+      "This additional chest tube was removed the following day.",
+      "Her postoperative hematocrit was 31, compared to a preoperative level of 43.",
+      "Her postoperative recovery was really quite remarkable.",
+      "Mediastinal chest tube was removed on postoperative day three.",
+      "The patient was discharged home in stable condition on postoperative day six."
+    ],
+    "doctors discharge orders": [
+      "Percocet for pain.",
+      "Follow up with Dr. Fede Duhenile.",
+      "She will have a home health aide to visit and help her with meals.",
+      "CA SHUFF, M.D."
+    ],
+    "dictating for": [
+      "FEDE LEVEL, M.D."
+    ],
+    "tr": [
+      "kw/bmot"
+    ],
+    "dd": [
+      "1-9-94"
+    ],
+    "td": [
+      "01/10/94"
+    ]
+  },
+  {
+    "filename": "TEST_16.txt",
+    "label": -1,
+    "garbage_infos": [
+      "748991871",
+      "ELMVH",
+      "85616941",
+      "730842"
+    ],
+    "times": [
+      "1/18/1997 12:00:00 AM"
+    ],
+    "admission date": [
+      "01/18/1997"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "01/20/1997"
+    ],
+    "admitting diagnosis": [
+      "PANCYTOPENIA."
+    ],
+    "additional diagnosis": [
+      "BIPOLAR DISORDER."
+    ],
+    "history of present illness": [
+      "This is a 53 year old white female with a history of bipolar disorder who had been maintained on lithium and Clozaril in the past.",
+      "Several months ago, the patient had a decreased white blood cell count and the clozaril was stopped.",
+      "She was restarted on the clozaril recently and the dose was being titrated to her white blood cell count using olanzapine in addition.",
+      "She received a decreased dose of clozaril from 450 mg per day to 350 mg per day.",
+      "The white blood cell count dropped again from 3.6 to 2.9.",
+      "Again the clozaril was stopped.",
+      "On the day of admission, the patient had a temperature to 101 without any localizing symptoms but was not feeling well, had a dry cough, mild frontal headache and was therefore admitted for pancytopenia."
+    ],
+    "past medical history": [
+      "Pulmonary embolus 3 to 4 years ago.",
+      "Bi-polar disorder.",
+      "Eczema.",
+      "Constipation."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "medications": [
+      "Olanzapine 30 mg p.o. q.h.s., lithium 300 mg p.o. q.d., vitamin E 400 units q.d., aspirin 81 mg p.o. q.d., calcium supplementation."
+    ],
+    "social history": [
+      "She lives with a female friend.",
+      "She does not drink alcohol or smoke tobacco or take drugs.",
+      "She is not sexually active."
+    ],
+    "family history": [
+      "Her mother had a bypass at the age of 70."
+    ]
+  },
+  {
+    "filename": "TEST_17.txt",
+    "label": -1,
+    "garbage_infos": [
+      "040059132",
+      "4026509",
+      "895332"
+    ],
+    "times": [
+      "6/23/1993 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "6/23/93"
+    ],
+    "discharge date": [
+      "7/2/93"
+    ],
+    "principal diagnosis": [
+      "coronary artery disease."
+    ],
+    "associated diagnosis": [
+      "congestive heart failure, atrial fibrillation, H/O protein reaction, elevated cholesterol, obesity, sleep apnea, chronic lung disease and pleural effusions."
+    ],
+    "principal procedure": [
+      "6/24/93, coronary artery bypass surgery X 2."
+    ],
+    "other procedures": [
+      "6/24/93, left internal mammary artery to anterior descending X 1."
+    ],
+    "medications on discharge": [
+      "Digoxin.25 mg. po q d, Captopril 12.5 mg. po bid, Coumadin 2.5 mg. po q PM, Lasix 20 mg. po q d, potassium chloride 20 mEq, PO q d, iron sulfate 300 mg. po q d, X 1 month, aspirin 80 mg. po q d, Verapamil 80 mg. po tid."
+    ],
+    "condition on discharge": [
+      "stable."
+    ]
+  },
+  {
+    "filename": "TEST_18.txt",
+    "label": -1,
+    "garbage_infos": [
+      "194442600",
+      "RWH",
+      "1642008",
+      "61509"
+    ],
+    "times": [
+      "10/19/1993 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "10/19/93"
+    ],
+    "discharge date": [
+      "10/25/93"
+    ],
+    "principal diagnosis": [
+      "Right capsular putamenal hemorrhage."
+    ],
+    "associated diagnosis": [
+      "hypertension."
+    ],
+    "history of present illness": [
+      "Mrs. Dua is a 34 year old white female with an unclear history of hypertension for at least five years.",
+      "She was in her usual state of health until around 12:40 on October 19, when while on the phone, started to have difficulty in talking.",
+      "Her speech became slurred, this was followed a few seconds after by weakness and numbness of her arm and leg.",
+      "She did not complain of headache, diplopia, or any other neurological symptoms.",
+      "She was seen at A Memorial Hospital where her blood pressure was measured at 240/120 and was found to have a mild left hemiparesis.",
+      "She was then transferred to Ro Woodma Healthcare for further management."
+    ],
+    "past medical history": [
+      "negative."
+    ],
+    "habits": [
+      "She does not smoke, does not use birth control pills, does not use drugs.",
+      "Denies any abuse of alcohol."
+    ],
+    "family history": [
+      "Father and brother died of PE."
+    ],
+    "review of systems": [
+      "negative."
+    ],
+    "social history": [
+      "She works at TackyMart, is single."
+    ],
+    "physical examination": [
+      "A 34 year old white female lying in bed, anxious; blood pressure of 220/120, afebrile."
+    ],
+    "skin": [
+      "no lesions."
+    ],
+    "heent": [
+      "normocephalic, atraumatic, anicteric."
+    ],
+    "neck": [
+      "supple, no bruits."
+    ],
+    "heart": [
+      "regular rhythm with no murmur, rub or gallop."
+    ],
+    "lungs": [
+      "clear to auscultation."
+    ],
+    "abdomen": [
+      "bowel sounds present, soft, nontender, nondistended, guaiac negative, no hepatosplenomegaly."
+    ],
+    "extremities": [
+      "no clubbing, cyanosis or edema."
+    ],
+    "neurological": [
+      "she was alert and oriented times three.",
+      "Her speech was fluent with no phasic or praxic problems, dysarthric.",
+      "Memory and attention span good.",
+      "Visual fields were full to confrontation.",
+      "Fundi were flat.",
+      "Pupils were 2 millimeters down to 1 millimeter by direct and consensual stimuli.",
+      "Extra ocular movements were full.",
+      "Corneals diminished on the left side.",
+      "V1 through V3, diminished light touch and pinprick in the left side.",
+      "There was a left central facial paresis.",
+      "Gag was symmetric.",
+      "Tongue deviated to the left.",
+      "There was a left arm pronator.",
+      "The ______________ was normal.",
+      "Strength was 5/5 on the right side, 4/5 on the left side.",
+      "The deep tendon reflexes were 2+ on the left side, 1+ on the right side.",
+      "The plantar was upgoing on the left side.",
+      "On sensory exam there was a mild diminution of light touch, pinprick, position, and vibration sense in the left side."
+    ],
+    "cerebella": [
+      "the fine motor movements of the left hand were diminished, there was a mild dysmetria on the left side to finger/nose and heel/shin.",
+      "The walk was paretic in the left side."
+    ],
+    "laboratory data": [
+      "sodium 140, potassium 4, chloride 107, CO2 25.4, BUN 9, creatinine.8, blood sugar 130.",
+      "Uric acid 4.7, cholesterol 150, triglycerides 74, HDL 44, LDL 91.",
+      "Normal liver function tests.",
+      "Urine and serum toxicology screen negative.",
+      "Thyroid stimulation hormone 1.9.",
+      "Dexamethasone suppression test negative with a cortisol level at 8 a.m. of 1.7.",
+      "Twenty-four urine for catecholamine, metanephrines, and VMA pending at the time of discharge.",
+      "White blood cell count 9.8, hematocrit 44.1, platelets 262, prothrombin time 10.4/ 10.3, partial thromboplastin time 25.9."
+    ],
+    "urinalysis": [
+      "specific gravity 125, PH 6.",
+      "Urine culture negative.",
+      "Sedimentation rate 2, antithrombin 3.",
+      "Protein C, protein S and plasminogen level within normal limits."
+    ],
+    "electrocardiogram": [
+      "sinus rhythm at 116, axis of 23, intervals of.14/.07/.42, no ST-segment abnormalities.",
+      "Chest x-ray negative.",
+      "Head computerized tomography scan on 10/19: 3 centimeter hyperdensity within the right putamenal area in the right external capsusle consistent with intra-parenchymal hematoma with mild local mass effect and surrounding edema.",
+      "No other areas of hemorrhage identified."
+    ],
+    "head computerized tomography scan of 10/23": [
+      "the area of hemorrhage the same, slightly more edema and mass effect."
+    ],
+    "pulmonary angiogram": [
+      "no evidence of pulmonary emboli."
+    ],
+    "hospital course": [
+      "Given the localization of the hematoma and the history of hypertension, the most likely cause for Mrs. Dua 's cerebellar hemorrhage is hypertension.",
+      "A magnetic resonance imaging study will be scheduled as an outpatient in three months to rule out a small vascular malformation if responsible for the hemorrhage.",
+      "At the time of discharge, Mrs. Dua has had a remarkable recovery.",
+      "She is now able to walk fitfully and use her left hand with no problem.",
+      "The exam is remarkable for a mild leftsided face, arm and leg weakness and sensory deficit that should further improve with physical therapy and occupational therapy help.",
+      "She will be followed by the OT/PT dept. for that.",
+      "Her hypertension was difficult to manage initially and required three days of Intensive Care Unit with A-line and Nipride intravenously.",
+      "It was finally under control with high doses of Captopril, Nifedipine, and hydrochlorothiazide.",
+      "The workup to rule out secondary cause of hypertension given the patient 's young age and the difficulty controlling the blood pressure was started as an inpatient and will be completed by Dr. ______________as an outpatient.",
+      "So far no secondary causes of hypertension were identified but causes like lymphocytic? chromocytoma or renal artery stenosis have not been ruled out yet."
+    ],
+    "medications on discharge": [
+      "hydrochlorothiazide 25 mg. po q.day, Captopril 75 mg. po three times a day, Nifedipine 40 mg. po three times a day."
+    ],
+    "condition on discharge": [
+      "Stable."
+    ],
+    "followup": [
+      "The patient will followup with Dr. ______________at Omend Hospital and with Dr. Deep at the Barb Memorial Hospital."
+    ]
+  },
+  {
+    "filename": "TEST_19.txt",
+    "label": -1,
+    "garbage_infos": [
+      "303694252",
+      "EH",
+      "14027692",
+      "097370",
+      "****** DISCHARGE ORDERS ******",
+      "RHALTHEAGLE, LEELO 506-20-55-6 K40"
+    ],
+    "times": [
+      "08/05/2001 12:00:00 AM"
+    ],
+    "admission date": [
+      "08/05/2001"
+    ],
+    "report status": [],
+    "discharge date": [
+      "08/08/2001"
+    ],
+    "room": [
+      "89N-803"
+    ],
+    "service": [
+      "MED"
+    ],
+    "discharge patient on": [
+      "08/08/01 AT 04:00 PM",
+      "CONTINGENT UPON",
+      "SNF/rehab"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "GRENDZISKLEEB, FACISA TIELO, M.D."
+    ],
+    "code status": [
+      "No CPR/No defib /"
+    ],
+    "disposition": [
+      "No- Ter Chipold Medical Center"
+    ],
+    "discharge medications": [
+      "ROBITUSSIN (GUAIFENESIN) 10 MILLILITERS PO Q4H PRN cough FLAGYL (METRONIDAZOLE) 500 MG PO TID X 5 Days Starting Today (08/08) NITROGLYCERIN 1/150 (0.4 MG) 1 TAB SL q5min x 3 PRN chest pain"
+    ],
+    "hold if": [
+      "SBP < 100 AMBIEN (ZOLPIDEM TARTRATE) 5 MG PO QHS PRN insomnia",
+      "Food/Drug Interaction Instruction",
+      "Give on an empty stomach (give 1hr before or 2hr after food)"
+    ],
+    "number of doses required (approximate)": [
+      "5 LEVOFLOXACIN 250 MG PO QD X 5 Days Starting Today (08/08)"
+    ],
+    "alert overridden": [],
+    "override added on 08/08/01 by": [],
+    "potentially serious interaction": [
+      "LEVOFLOXACIN and HALOPERIDOL"
+    ],
+    "reason for override": [
+      "aware",
+      "OMEPRAZOLE 40 MG PO BID X 45 Days ATENOLOL 25 MG PO BID",
+      "Food/Drug Interaction Instruction",
+      "Take consistently with meals or on empty stomach."
+    ],
+    "previous override information": [
+      "Override added on 08/07/01 by ZISKFUSCJALK, ACRI, M.D. on order for HALDOL PO (ref # 60739147)"
+    ],
+    "return to work": [
+      "Not Applicable"
+    ],
+    "follow up appointment (s)": [
+      "Dr. Scaher Grend, RAMMCO 8/20, 3:30pm scheduled, No Known Allergies"
+    ],
+    "admit diagnosis": [
+      "hematemesis",
+      "PRINCIPAL DISCHARGE DIAGNOSIS;",
+      "Responsible After Study for Causing Admission) erosive esophagitis",
+      "OTHER DIAGNOSIS;",
+      "Conditions, Infections, Complications, affecting Treatment/Stay right scrotal hydrocele bph (benign prostatic hypertrophy)? nph (? hydrocephalus) dementia (dementia)"
+    ],
+    "operations and procedures": [
+      "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
+      "Esophagogastroduodenoscopy"
+    ]
+  },
+  {
+    "filename": "TEST_20.txt",
+    "label": -1,
+    "garbage_infos": [
+      "442434998",
+      "7427446",
+      "288662"
+    ],
+    "times": [
+      "3/13/1992 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned"
+    ],
+    "admission date": [
+      "3-13-92"
+    ],
+    "discharge date": [
+      "3-20-93"
+    ],
+    "principal diagnosis": [
+      "restrictive pericarditis."
+    ],
+    "associated diagnosis": [
+      "coronary artery disease, prior myocardial infarction, insulin dependent diabetes mellitus, ventricular ectopy, right bundle branch block and atelectasis."
+    ],
+    "special procedures and operations": [
+      "3-15-93 pericardiectomy."
+    ],
+    "medications on discharge": [
+      "Levothyroid 0.1 mg PO q.day, Lasix 20 mg PO b.i.d., Capoten 25 mg PO t.i.d., Ecotrin 325 mg PO q.day, Iron sulfate 300 mg PO q.day, Insulin 18 units qam, and Lovastatin 20 mg PO q.day."
+    ],
+    "history of present illness": [
+      "The patient is a 61 year old female with prior myocardial infarctions in 1984 and 1989.",
+      "In November, 1992, she underwent coronary artery bypass surgery by Dr. Heart at A.stevensjmonte Health.",
+      "Her postoperative course was unremarkable except for episodes of arrhythmias.",
+      "Over the past three months, she has had progressive edema, ascites and right heart failure.",
+      "In January, she had cardiac catheterization and this demonstrated constrictive physiology and confirmed by chest computerized tomography scan in January, 1993.",
+      "This demonstrated a suggestion that she had restrictive pericarditis and accordingly, she was deemed an appropriate candidate for admission for this purpose.",
+      "She had known ascites, bilateral pleural effusions, cardiomegaly, and increased interstitial markings."
+    ],
+    "past medical history": [
+      "Her past medical history includes a prior myocardial infarction, insulin dependent diabetes mellitus, hypertension and hypothyroidism.",
+      "She also has some peripheral vascular disease."
+    ],
+    "social history": [
+      "She quit smoking nine years ago."
+    ],
+    "medications on admission": [
+      "Insulin, Capoten and Lasix, along with Lopressor, Levothyroid, Mevacor and Ecotrin."
+    ],
+    "family history": [
+      "Her brother and father died of myocardial infarction.",
+      "She has been widowed for two years.",
+      "She has two children who are alive and well."
+    ],
+    "review of systems": [
+      "Her review of systems includes the edema, swelling and dyspnea."
+    ],
+    "physical examination": [
+      "On physical examination, blood pressure is 100/70 in the left and 140/80 in the right, pulse of 68 and regular, neck veins not distended.",
+      "The head, eyes, ears, nose, throat examination was unremarkable.",
+      "Her lungs were clear to auscultation and percussion except for bibasilar crackles."
+    ],
+    "cardiovascular exam": [
+      "no murmur, rub or gallop.",
+      "The abdomen was distended with ascites."
+    ],
+    "extremities": [
+      "pitting edema.",
+      "No pedal pulses.",
+      "Fungal infection on both feet.",
+      "The neurological examination was with slightly diminished deep tendon reflexes."
+    ]
+  },
+  {
+    "filename": "TEST_21.txt",
+    "label": -1,
+    "garbage_infos": [
+      "512875472",
+      "47241971",
+      "271075"
+    ],
+    "times": [
+      "4/26/1999 12:00:00 AM"
+    ],
+    "admission date": [
+      "04/26/1999"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "05/14/1999"
+    ],
+    "principal diagnoses": [
+      "RIGHT BREAST CARCINOMA, STATUS POST HIGH DOSE CHEMOTHERAPY AND AUTOLOGOUS STEM CELL RESCUE."
+    ],
+    "list of significant problems": [
+      "(1) High risk carcinoma of the right breast.",
+      "(2) Hypertension.",
+      "(3) Hypothyroidism."
+    ],
+    "history of present illness": [
+      "Ms. A is a 48-year-old woman, who was diagnosed with breast cancer in May of 1998.",
+      "She was in her usual state of health until May of 1997, when her right breast was noted to be abnormal on mammography.",
+      "Biopsy of this specific area was negative.",
+      "Subsequent mammography was, reportedly, benign and without significant interval change.",
+      "However, by May 1998, she had appreciated a fullness in the right breast, and noted the emergence of a mass, which increased in size over time.",
+      "Mammography was repeated, which was highly suspicious for malignancy.",
+      "An ultrasound of the lesion was similarly suspicious for neoplasm.",
+      "The patient, therefore, went to incisional biopsy, which confirmed invasive ductal carcinoma.",
+      "She, subsequently, underwent mastectomy with axillary lymph node dissection (November 1998).",
+      "The final results from pathology revealed a very large tumor measuring 14 centimeters in size permeating the whole breast with a positive deep margin.",
+      "The tumor was described as histologically nuclear grade III with extensive lymphatic vascular invasion.",
+      "ER and PR were strongly positive, although, a K-617 index was unfavorable at 30 percent with a high esterase.",
+      "DNA content was deployed.",
+      "On examination of the lymph nodes, 22 of 24 lymph nodes sampled were involved with carcinoma.",
+      "Subsequent to surgery, she had an uncomplicated recovery.",
+      "She then went on to dose-intensive Adriamycin and tolerated this procedure remarkably well.",
+      "Restaging revealed no evidence of interval progression and the patient, therefore, went on to high-dose cyclophosphamide for stem cell mobilization.",
+      "Leukophoresis went well and stem cell yields were excellent.",
+      "Therefore, she is being admitted for intensification with high-dose cyclophosphamide, thiotepa, and carboplatin followed by stem cell rescue."
+    ],
+    "past medical history": [
+      "(1) Breast cancer as per history of present illness.",
+      "(2) Hypertension.",
+      "(3) History of goiter, status post partial thyroidectomy.",
+      "(4) History of uterine fibroids, status post total abdominal hysterectomy.",
+      "(5)? history of transient ischemic attack times one in 1987."
+    ],
+    "medications on admission": [
+      "(1) Atenolol 25 milligrams q.d.",
+      "(2) Synthroid 0.125 milligrams q.d.",
+      "(3) Multivitamins."
+    ],
+    "note": [
+      "She had been on Lovenox for a line associated deep vein thrombosis."
+    ],
+    "allergies": [
+      "She is allergic to quinine sulfate."
+    ],
+    "social history": [
+      "The patient is an ex-smoker.",
+      "She occasionally drinks alcohol, and works as a baker.",
+      "She has a supportive partner, who works as a local fire fighter.",
+      "She had menarche at the age of 13.",
+      "She is Gravida I, Para I."
+    ],
+    "family history": [
+      "Family history is negative for breast cancer.",
+      "Her maternal grandmother had colon cancer, and her grandfather had laryngeal cancer."
+    ],
+    "physical examination on admission": [],
+    "general": [
+      "The patient is alert, pleasant, and in no acute distress."
+    ],
+    "vital signs": [
+      "Temperature 96.4, blood pressure 120/90, pulse 72, saturations at 97 percent on room air.",
+      "She weights 81.8 kilograms."
+    ],
+    "heent/neck": [
+      "Head and neck examination is notable for alopecia and thrush on the tongue.",
+      "There is no cervical lymphadenopathy appreciated."
+    ],
+    "chest": [
+      "Chest examination was clear to auscultation."
+    ],
+    "cardiovascular": [
+      "Cardiac examination was normal with a S1, S2, and a grade I to II/VI systolic murmur at the left sternal border."
+    ],
+    "abdomen": [
+      "Abdominal examination was benign."
+    ],
+    "extremities": [
+      "Examination revealed no edema.",
+      "No axillary lymphadenopathy."
+    ],
+    "laboratory data": [
+      "White count was 2.0, hematocrit was 28.6, and platelets were 308.",
+      "Serum electrolytes revealed sodium 138, potassium 4.2, chloride 101, bicarbonate 26, BUN 16, creatinine 0.6, and glucose 77."
+    ],
+    "diagnostic studies": [
+      "Her electrocardiogram showed normal sinus rhythm at a rate of 62 with a leftward axis and normal intervals.",
+      "She had a large R-wave in V2, in V1 but with R less than S. She had an inverted T-wave in lead 3, otherwise, no Q, ST-T wave changes."
+    ],
+    "hospital course": [
+      "The patient was a 48-year-old woman with high risk carcinoma of the breast admitted for a STAMP with cyclophosphamide, thiotepa, and carboplatin.",
+      "The patient was started on the standard protocol with day 0 being equal to December 1999."
+    ],
+    "her hospital course was, overall, uncomplicated and notable for the following events": [],
+    "(1) hematology/oncology": [
+      "The patient became neutropenic on day minus 2 and reached a nadir of white blood count of 0.02 on May 8.",
+      "She had her first neutropenic fever on May 9, 1999, and all cultures from blood and urine are negative.",
+      "A chest x-ray revealed no pneumonia.",
+      "The patient was started on ceftazidime initially for febrile neutropenia, but quickly developed a pleuritic rash.",
+      "She was put on piperacillin and gentamicin for enteric antibiotic coverage.",
+      "She recovered her count and was no longer neutropenic on May 11, 1999, which is day plus 8.",
+      "On day plus 9, she had a white count of over 10,000 and her antibiotic coverage was discontinued, as was the G-CSF.",
+      "During the patient 's stay here, she required platelet transfusions on two days, and received two units of packed red blood cells on May 8 for a hematocrit of 25.7.",
+      "The patient did not have very significant pain issues while in house, though, she did require a short course on a Fentanyl drip for management of throat pain.",
+      "She never developed severe oral mucositis that was appreciable, and her oral thrush was treated successfully with fluconazole."
+    ],
+    "(2) fluids, electrolytes and nutrition": [
+      "The patient was able to tolerate p.o.'s throughout her hospital stay.",
+      "She did not have significant problems with marked electrolyte abnormalities.",
+      "On April 29, she had a sodium of 132, which was her lowest during her hospital stay.",
+      "Her sodium, subsequently, recovered with the administration of normal saline and p.r.n. doses of Lasix.",
+      "Overall, the patient has had a very smooth hospital course without complications, and was in stable condition upon discharge."
+    ],
+    "disposition": [
+      "The patient is being discharged home with services.",
+      "She will have SGGH services for line care and intravenous fluids.",
+      "She will receive one liter of normal saline plus 20 milliequivalents of KCl per day on Saturday, Sunday, and Monday."
+    ],
+    "follow up": [
+      "Her follow up will include an appointment with Dr. Squarcnides on Tuesday, and then she will return to the Santusli Hospital on next Friday, May 21."
+    ],
+    "discharge medications": [
+      "(1) Atenolol 25 milligrams q.d.",
+      "(2) Synthroid 125 micrograms p.o. q.d.",
+      "(3) Folate 1 milligram q.d.",
+      "(4) Multivitamin 1 tablet q.d.",
+      "(5) Prilosec 20 milligrams q.d.",
+      "(6) Compazine spansules 15 milligrams p.o. q.12h p.r.n. nausea."
+    ],
+    "dictated by": [
+      "NABETH GLYNCRED, M.D. II00"
+    ],
+    "attending": [
+      "TRANGCA F. CHIRDSTEN, M.D. WQ56 HD432/9433"
+    ],
+    "batch": [
+      "68998",
+      "Index No. ORKEY60J6E"
+    ],
+    "d": [
+      "05/12/99"
+    ]
+  },
+  {
+    "filename": "TEST_22.txt",
+    "label": -1,
+    "garbage_infos": [
+      "620454779",
+      "DH",
+      "2882245",
+      "183657",
+      "557967"
+    ],
+    "times": [
+      "2/4/2001 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "BELBJESC, WITLASIE"
+    ],
+    "unit number": [
+      "886-33-32"
+    ],
+    "admission date": [
+      "02/04/2001"
+    ],
+    "discharge date": [
+      "02/06/2001"
+    ],
+    "principal diagnosis": [
+      "Left shoulder - proximal humerus fracture."
+    ],
+    "principal procedure": [
+      "Left shoulder hemiarthroplasty."
+    ],
+    "history of present illness": [
+      "the patient is a 58-year-old woman who sustained a left shoulder proximal humerus fracture.",
+      "She has been seen by Dr. Post and now elects to undergo surgical treatment."
+    ],
+    "past medical history": [
+      "Hypothyroidism, hypercholesterolemia."
+    ],
+    "medications on admission": [
+      "Synthroid, Pravachol, baby aspirin."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "physical examination": [
+      "Heart regular rate and rhythm.",
+      "Lungs are clear.",
+      "Left shoulder pain and swelling with ecchymosis.",
+      "5/5 wrist extension, EDL, DI, forward flexion, pinch.",
+      "Sensation intact to light touch and pinprick throughout."
+    ],
+    "hospital course": [
+      "The patient was admitted on 02/04/01 for surgery that day.",
+      "She was taken to the operating room where she underwent a left shoulder hemiarthroplasty.",
+      "Intraoperative findings included the proximal humerus fracture that was found to be in four parts rather than three parts.",
+      "Initially, it had been hoped that the fracture would be amenable to open reduction internal fixation.",
+      "However, it was found to require hemiarthroplasty which was undertaken.",
+      "The patient tolerated the procedure well and postoperatively was brought in stable extubated condition to the Post-Anesthesia Recovery Unit and later to the regular floor.",
+      "Postoperative x-ray showed a well aligned and located left hemiarthroplasty of the shoulder.",
+      "Postoperatively, the patient was neurovascularly intact with 5/5 strength throughout her distal left upper extremity and intact sensation axillary, medial, ulna, radial nerve distributions.",
+      "She had brisk capillary refill in all fingers.",
+      "On postoperative day # 1, her pain medication was weaned to oral form once she was tolerating good PO.",
+      "She worked with Physical Therapy for pendulum and passive range of motion only.",
+      "She was kept on perioperative antibiotics.",
+      "By postoperative day # 2, she was doing much better with excellent pain control.",
+      "Her dressing was changed revealing a clean, dry, and intact wound.",
+      "She continued to be neurovascularly intact.",
+      "She was felt to be stable and ready for discharge to home."
+    ],
+    "discharge medications": [
+      "Percocet 1-2 PO q4h p.r.n. pain as well as regular home medications."
+    ],
+    "discharge instructions": [
+      "The patient may shower after 72 hours.",
+      "She should leave her dressing on and change it on an as needed basis.",
+      "She should follow-up with Dr. Post in 10-14 days.",
+      "Electronically Signed MIBET J ALLESHANI HUDES, M.D. 02/26/2001 08:12",
+      "_____________________________ MIA PRAINDAIZ, MD"
+    ],
+    "tr": [
+      "ge"
+    ],
+    "dd": [
+      "02/06/2001"
+    ],
+    "td": [
+      "02/08/2001 9:12 A"
+    ]
+  },
+  {
+    "filename": "TEST_23.txt",
+    "label": -1,
+    "garbage_infos": [
+      "284137413",
+      "TH",
+      "69486159",
+      "1375132"
+    ],
+    "times": [
+      "7/27/2006 12:00:00 AM"
+    ],
+    "admission date": [
+      "07/27/2006"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "08/04/2006"
+    ],
+    "attending": [
+      "EAK, NA MD"
+    ],
+    "service": [
+      "Gynecology."
+    ],
+    "discharge diagnosis": [
+      "Hemorrhagic right ovarian cyst, status post laparoscopy converted to laparotomy, right salpingo-oophorectomy, lysis of dense ileal adhesions with enterotomy, ileal resection with primary anastomosis."
+    ],
+    "history of present illness": [
+      "Ms. Straight is a 48-year-old G2, P2 who presented on referral to Dr. Eak for evaluation with a 9-cm pelvic mass and complaint of abdominal pelvic pain.",
+      "Her gynecological history is notable for endometriosis and Ms. Straight is status post total abdominal hysterectomy in 2002.",
+      "Her CA-125 preoperatively was 23.",
+      "Ms. Straight was consented for diagnostic laparoscopy, excision of pelvic mass, and possible removal of right ovary.",
+      "Operative risks were reviewed with the patient per Dr. Eak including the risks of conversion to laparotomy.",
+      "She had a preoperative bowel prep."
+    ],
+    "past gyn history": [
+      "Endometriosis, status post total abdominal hysterectomy in 2002 for fibroids."
+    ],
+    "past ob history": [
+      "G2, P2."
+    ],
+    "past medical history": [
+      "History of functional heart murmur."
+    ],
+    "past surgical history": [
+      "In 1995 bilateral breast implants, in 2002 total abdominal hysterectomy for fibroids."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "social history": [
+      "Denies smoking, alcohol use."
+    ],
+    "family history": [
+      "No family history of breast, colon or gynecological malignancies.",
+      "No family of history of cardiac disease, hypertension, and diabetes mellitus."
+    ],
+    "hospitalization course": [
+      "On July 27, 2006, Ms. Straight underwent pelviscopy that was converted to a laparotomy with right salpingo-oophorectomy, lysis of adhesions, right ileal resection with primary reanastomosis and appendectomy.",
+      "Please refer to operative report dictation for full details of the operative course.",
+      "Briefly, there is noted to be dense adhesions involving the ileum, the appendix, cecum, pelvic cystic mass and the right ovary.",
+      "In the course of lysis of adhesions a small enterotomy in ileum was noted.",
+      "General surgical consultation was obtained from Dr. Obe who performed lysis of ileal adhesions with another small enterotomy secondary to dense adhesions.",
+      "An approximately 3-4 cm segment of the ileum was resected with a primary end to end reanastomosis.",
+      "The estimated blood loss was 200 ml.",
+      "The final surgical pathology showed a right hemorrhagic cyst of undetermined origin with extensive adhesions, peri-appendiceal adhesions and ileum with adhesions.",
+      "Postoperatively, Ms. Straight was maintained with an NG tube and bowel rest until postoperative day #5 when she passed flatus.",
+      "Of note, on postoperative day #3 and #4, she spiked isolated temperatures to 101.",
+      "Evaluation was unrevealing in terms of focal source of her fever.",
+      "The urine and blood cultures were negative.",
+      "Chest x-ray was negative.",
+      "After postoperative day #4, she experienced no further episodes of fever.",
+      "Following her NG tube discontinuation on postoperative day #5, she experienced three to four episodes of bilious emesis.",
+      "On examination, her abdomen was nondistended and she had normal bowel sounds.",
+      "A KUB confirmed no evidence of an ileus or obstruction.",
+      "She was managed conservatively and kept npo for one night and then her diet was advanced slowly.",
+      "By the evening of postoperative day #7, she was tolerating full house diet and had two spontaneous bowel movements.",
+      "It was unclear her etiology of her emesis following NG tube removal although possibly secondary to a subclinical ileus.",
+      "It is also a possibility that she had gastroenteritis from her relative who had presented recently to the ED with similar course of low grade fevers, emesis that resolved in short course.",
+      "At time of discharge (postoperative day #8 08/04/06), she was tolerating a house diet.",
+      "She was voiding ambulating and had remained afebrile for over 72 hours.",
+      "She was deemed to appropriate for discharge home with followup with Dr. Eak in five weeks."
+    ],
+    "discharge condition": [
+      "Stable."
+    ],
+    "discharge instructions": [
+      "Ms. Straight is consulted to followup with Dr. Eak in approximately five weeks for her postoperative evaluation.",
+      "She was consulted to contact him in the event of fever, wound, complications, worsening nausea, vomiting, abdominal pain, shortness of breath or any other health concerns.",
+      "She is asked to refrain from lifting heavy weights or strain for six weeks and nothing in vagina for six weeks and to avoid driving while taking narcotic pain medications."
+    ]
+  },
+  {
+    "filename": "TEST_24.txt",
+    "label": -1,
+    "garbage_infos": [
+      "931376689",
+      "ELMVH",
+      "07594907",
+      "677447"
+    ],
+    "times": [
+      "12/28/2002 12:00:00 AM"
+    ],
+    "admission date": [
+      "12/28/2002"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "01/13/2003"
+    ],
+    "history of present illness": [
+      "Patient is a 55-year-old female with a history of poorly controlled diabetes, status post multiple admissions for HHNK, and recent right arm fracture.",
+      "Patient initially presented four days ago to the emergency room.",
+      "At that time, she was febrile, with no obvious source of infection.",
+      "She was sent home with pain control.",
+      "Cultures were pending.",
+      "Over the past days before admission, the patient had been complaining of increased arm pain.",
+      "Of note, the patient states that her pain is so bad that she was not taking her insulin.",
+      "On the morning of admission, the son could not reach her by phone.",
+      "He was concerned.",
+      "LRAH then called to say that they found her in the house very confused, called EMS, and she was brought into the hospital.",
+      "Per the son, patient not complaining of any other problems; no chest pain, no shortness of breath, no upper respiratory symptoms, no cough, no dysuria, and no abdominal pain.",
+      "Of note, blood cultures from Christmas Eve grew MSSA in the blood.",
+      "In the emergency room, she was given 6 units subcu, with no resolve, then insulin drip at 6 units per hour, then increased to 10 including with IV hydration, and she was started on nafcillin for MSSA."
+    ]
+  },
+  {
+    "filename": "TEST_25.txt",
+    "label": -1,
+    "garbage_infos": [
+      "411696276",
+      "DH",
+      "9877367",
+      "931208",
+      "6525806"
+    ],
+    "times": [
+      "3/29/2005 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION/SUMMARY",
+      "FREIERMLINKENEIGHCAABLINFARST, ANEA"
+    ],
+    "mrn": [
+      "9877367"
+    ],
+    "age": [
+      "88y"
+    ],
+    "registration date": [
+      "03/29/2005 07:22 PM"
+    ],
+    "provider": [
+      "SYMA GRAMHERDES",
+      "PRELIMINARY REPORT"
+    ],
+    "pcp notified by md": [
+      "Yes - Direct contact with PCP"
+    ],
+    "benefits assigned": [
+      "Y",
+      "Discharge Note"
+    ],
+    "date/time": [
+      "03/29/2005 22:00"
+    ],
+    "discharge status": [
+      "Discharged"
+    ],
+    "condition on discharge": [
+      "Stable"
+    ],
+    "patient states complaint": [
+      "FALL VS SYNCOPE"
+    ],
+    "diagnosis": [
+      "mechanical fall"
+    ],
+    "treatment rendered": [
+      "emergency evaluation, head CT, labs, consultation with PCP"
+    ],
+    "discharge medications": [
+      "resume home meds"
+    ],
+    "disposition, follow up and instructions to patient": [
+      "Dr. Afriphauthcaughelksaxcaugh is aware of this ED visit.",
+      "Resume all your regular medications and follow up with Dr Afriphauthcaughelksaxcaugh as scheduled.",
+      "Call her office or return to the ED if there are any mental status changes that concern you."
+    ],
+    "pcp name": [
+      "AFRIPHAUTHCAUGHELKSAXCAUGH, LAA"
+    ]
+  },
+  {
+    "filename": "TEST_26.txt",
+    "label": -1,
+    "garbage_infos": [
+      "618630652",
+      "TH",
+      "25702708",
+      "7362133",
+      "****** FINAL DISCHARGE ORDERS ******"
+    ],
+    "times": [
+      "05/18/2005 12:00:00 AM"
+    ],
+    "admission date": [
+      "05/18/2005"
+    ],
+    "report status": [],
+    "discharge date": [
+      "05/21/2005",
+      "VANGESKIBEATHETLAND, AJOEAN J",
+      "631-09-69-0 O85"
+    ],
+    "room": [
+      "7P-028"
+    ],
+    "service": [
+      "RNM"
+    ],
+    "discharge patient on": [
+      "05/21/05 AT 11:00 AM",
+      "CONTINGENT UPON",
+      "Not Applicable"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "DOUET, DAMI L., M.D."
+    ],
+    "code status": [
+      "Full code"
+    ],
+    "disposition": [
+      "Home"
+    ],
+    "discharge medications": [
+      "CALCITRIOL 0.5 MCG PO BID CALCIUM CARBONATE (500 MG ELEMENTAL CA++) 5,000 MG PO TID PEPCID (FAMOTIDINE) 20 MG PO BID TACROLIMUS 5 MG PO Q12H",
+      "Food/Drug Interaction Instruction",
+      "Separate antacids by at least two hours and avoid grapefruit juice"
+    ],
+    "override notice": [
+      "Override added on 05/19/05 by GUIRRE, SHELLTILI B., M.D. on order for DILTIAZEM PO (ref # 086429935)"
+    ],
+    "potentially serious interaction": [
+      "TACROLIMUS and DILTIAZEM HCL"
+    ],
+    "reason for override": [
+      "will monitor BACTRIM SS (TRIMETHOPRIM /SULFAMETHOXAZOLE SI...) 1 TAB PO QD DILTIAZEM EXTENDED RELEASE 360 MG PO QD Starting IN AM (05/20)",
+      "Food/Drug Interaction Instruction",
+      "Avoid grapefruit unless MD instructs otherwise."
+    ],
+    "previous override information": [
+      "Override added on 05/18/05 by TONE, NIDI M., M.D., M.P.H."
+    ],
+    "alert overridden": [
+      "Override added on 05/19/05 by SAPSPANT, AJAC R, M.D."
+    ]
+  },
+  {
+    "filename": "TEST_27.txt",
+    "label": -1,
+    "garbage_infos": [
+      "777225589",
+      "WGH",
+      "4678396",
+      "18482",
+      "1998838"
+    ],
+    "times": [
+      "12/18/2005 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed OB EMR L and D",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "XIEACASS BETHCONRI BLOUNT"
+    ],
+    "unit number": [
+      "985-84-89"
+    ],
+    "admission date": [
+      "20051218"
+    ],
+    "discharge date": [
+      "20051223"
+    ],
+    "principal discharge diagnosis": [
+      "Cesarean Section - Delivered"
+    ],
+    "associated diagnoses": [
+      "Abnormal Pap Test, history of; Anemia; Arrhythmia; Gastrointestinal Problem, history of; Herpes Simplex, Non Vulvovaginitis, history of; Infertility; Maternal Obesity; Stopped Smoking This Pregnancy, history of; Thyroid Nodule; Urinary Tract Infection"
+    ],
+    "principal procedure or operation": [
+      "Cearean delivery with a low transverse hysterotomy"
+    ],
+    "associated procedures or operations": [],
+    "postpartum diagnostic procedures": [
+      "None"
+    ],
+    "postpartum therapeutic procedures": [
+      "None"
+    ],
+    "other postpartum therapies": [
+      "Routine Post Partum Care"
+    ],
+    "history and reason for hospitalization": [
+      "Induction Of Labor"
+    ],
+    "physical examination": [
+      "HEIGHT 65 NECK NORMAL BREASTS NORMAL NIPPLES NORMAL CHEST NORMAL COR NORMAL ABDOMEN NORMAL vertical scar from bowel resection VULVA NORMAL VAGINA NORMAL CERVIX NORMAL OS NORMAL ltc post UTERINE SIZE IN WEEKS NORMAL term"
+    ],
+    "hospital course (include complications if any)": [],
+    "this 34 year old gravida 2 para 0010 was admitted to the life valley medical center obstetrical service on 12/18/2005 at 08:15 am for the indication (s)": [
+      "induction of labor.",
+      "She delivered a 3263 gram female infant on 12/19/2005 at 12:17 am with apgar scores of 8 and 9 at one and five minutes respectively at 41.9 weeks gestation via primary cesarean delivery with a low transverse hysterotomy for the indication of non-reassuring fetal heart rate pattern."
+    ],
+    "during her labor she encountered the following complication (s)": [
+      "none."
+    ],
+    "during her delivery she encountered the following complication (s)": [
+      "none."
+    ],
+    "postpartum she encountered the following complication (s)": [
+      "none.",
+      "She was discharged on 12/23/2005 at 11:57 am in good condition."
+    ],
+    "discharge orders (medications instructions to patient, follow-up care)": [],
+    "discharge activity": [
+      "Rest At Home"
+    ],
+    "discharge diet": [
+      "No Restrictions"
+    ],
+    "postpartum disposition": [
+      "Home With Self-Care (Routine Discharge)"
+    ],
+    "postpartum care site": [
+      "La Community Hospital"
+    ],
+    "postpartum return appointment (days)": [
+      "42"
+    ],
+    "breast feeding at discharge": [
+      "Yes"
+    ],
+    "postpartum rh immune globulin": [
+      "Not Indicated"
+    ],
+    "postpartum measles/mumps/rubella vaccine": [
+      "Not Indicated"
+    ],
+    "medication (s) on discharge": [
+      "Percocet; Multivitamins And Folate"
+    ]
+  },
+  {
+    "filename": "TEST_28.txt",
+    "label": -1,
+    "garbage_infos": [
+      "694420471",
+      "WGH",
+      "0275687",
+      "054029",
+      "851366"
+    ],
+    "times": [
+      "6/3/2001 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "CHAFFGIG, LAKI R"
+    ],
+    "unit number": [
+      "103-43-29"
+    ],
+    "admission date": [
+      "06/03/2001"
+    ],
+    "discharge date": [
+      "06/06/2001"
+    ],
+    "principal diagnosis": [
+      "Endometrial cancer."
+    ],
+    "principal procedure": [
+      "Total abdominal hysterectomy with bilateral salpingo-oophorectomy and appendectomy."
+    ],
+    "history of present illness and reason for hospitalization": [
+      "The patient is a 53-year-old Gravida II, Para II, on no hormone replacement therapy, who developed heavy vaginal bleeding last month with a hematocrit drop from 41 to 22.",
+      "She was transfused three units of packed red blood cells.",
+      "Her endometrial biopsy of 5/6/01 came back Grade II adenocarcinoma.",
+      "She was seen by Dr. Linkekotemones in the office on 5/26/01 when she was having scant vaginal bleeding.",
+      "No urinary complaints.",
+      "No gastrointestinal complaints."
+    ],
+    "past medical history": [
+      "Normal spontaneous vaginal delivery x two.",
+      "Status post cervical polyp removed a few years ago.",
+      "No prior hospitalizations.",
+      "Hypertension.",
+      "Obesity."
+    ],
+    "medications": [
+      "Atenolol 25 mg PO q.day.",
+      "Ecotrin, which she has stopped after she started bleeding last month."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "social history": [
+      "She lives with her husband.",
+      "She works as a bank teller.",
+      "No pets.",
+      "Smokes one pack per day x 40 years.",
+      "Alcohol occasionally."
+    ],
+    "family history": [
+      "Sister status post hydrosalpinx.",
+      "Two maternal aunts with breast cancer.",
+      "Mother with Alzheimer 's disease.",
+      "Father died secondary to liver disease.",
+      "No history of endometrial, colon, or lung cancer in her family."
+    ],
+    "physical examination": [],
+    "by dr. linkekotemones on 5/26/01 in her office": [
+      "weight 261 pounds; blood pressure 134/82; height 53 and 1/7th; HEENT within normal limits; no lymphadenopathy.",
+      "The lungs were clear to auscultation bilaterally."
+    ],
+    "cardiac": [
+      "regular rate and rhythm."
+    ],
+    "breasts": [
+      "no masses; no tender."
+    ],
+    "abdomen": [
+      "obese.",
+      "Vulva within normal limits.",
+      "Vagina within normal limits.",
+      "Cervix within normal limits."
+    ],
+    "hospital course": [
+      "The patient was admitted to the GYN/Oncology Service.",
+      "An uncomplicated total abdominal hysterectomy with bilateral salpingo-oophorectomy and appendectomy with pelvic washings were done by Dr. Karaanell Ogh and Dr. Fyfe under Dr. Linkekotemones 's guidance.",
+      "The estimated blood loss was 500 cc 's. The intraoperative findings showed normal adnexa, normal upper abdomen, normal appendix, no myometrial invasion upon examination of the uterus in the operating room.",
+      "She underwent an uncomplicated postoperative course.",
+      "Her postoperative hematocrit was 34.6.",
+      "Her preoperative hematocrit was 36.6.",
+      "On postoperative one, she was found to be very wheezy on pulmonary examination and was given chest physical therapy and around the clock nebulizers.",
+      "Her Foley catheter was removed, and she tolerated clear liquids without any problems.",
+      "By postoperative two, her wheezing had decreased considerably.",
+      "She tolerated solids.",
+      "She was passing gas.",
+      "By postoperative three, her wheezing had decreased even more.",
+      "She was put on p.r.n. inhalers and had a bowel movement.",
+      "She was tolerating PO pain medications and a regular diet.",
+      "At this point, it was also noticed that there was some erythema around her incision bilaterally; no fluctuance; nontender; slightly warm to the touch.",
+      "It was thought that an early cellulitis may be beginning.",
+      "At this point, she was discharged to home, to follow up with Dr. Linkekotemones in one week for staple removal and in four weeks for a postoperative checkup."
+    ],
+    "medications on discharge": [
+      "Dulcolax 10 mg p.r. b.i.d. p.r.n. for constipation.",
+      "Tylenol 650 mg PO q. six hours p.r.n. for headache.",
+      "Atenolol 25 mg PO q.day.",
+      "Dilaudid 2 mg PO q. four hours p.r.n. for pain.",
+      "Albuterol inhaler two puffs q.i.d. prn for wheezing.",
+      "Motrin 600 mg PO q. six hours prn for pain.",
+      "Colace 100 mg PO t.i.d. Keflex 500 mg PO q.i.d. x seven days.",
+      "MARINICAITL LINKEKOTEMONES, M.D."
+    ],
+    "dictating for": [
+      "Electronically Signed MARINICAITL LINKEKOTEMONES, M.D. 06/13/2001 15:11",
+      "_____________________________ MARINICAITL LINKEKOTEMONES, M.D."
+    ],
+    "tr": [
+      "ju"
+    ],
+    "dd": [
+      "06/06/2001"
+    ],
+    "td": [
+      "06/11/2001 10:04 A"
+    ]
+  },
+  {
+    "filename": "TEST_29.txt",
+    "label": -1,
+    "garbage_infos": [
+      "814743340",
+      "RWH",
+      "3393103",
+      "501370",
+      "9041109"
+    ],
+    "times": [
+      "5/13/2006 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "TRICHEPRAKEJESC, BETLA"
+    ],
+    "unit number": [
+      "381-75-78"
+    ],
+    "admission date": [
+      "05/13/2006"
+    ],
+    "discharge date": [
+      "05/16/2006"
+    ],
+    "principal diagnosis": [
+      "Chest pain."
+    ],
+    "associated diagnosis": [
+      "Coronary artery disease; hypertension; hyperlipidemia; sleep apnea; diabetes type 2."
+    ],
+    "procedures": [
+      "Adenosine stress test.",
+      "Part 1 of a sleep study.",
+      "Coronary angiogram.",
+      "Chest CT.",
+      "Chest x-ray."
+    ]
+  },
+  {
+    "filename": "TEST_30.txt",
+    "label": -1,
+    "garbage_infos": [
+      "893520441",
+      "WGH",
+      "7750811",
+      "012668",
+      "1335493"
+    ],
+    "times": [
+      "7/30/2006 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "FYFEKOTETHORE, TEMPIPAU T"
+    ],
+    "unit number": [
+      "930-43-36"
+    ],
+    "admission date": [
+      "07/30/2006"
+    ],
+    "discharge date": [
+      "08/02/2006",
+      "PRINCIPAL DIAGNOSIS",
+      "Morbid obesity",
+      "ASSOCIATED DIAGNOSES",
+      "Diabetes -- diagnosed at age 25; on insulin since 04/06 HTN Hyperlipidemia GERD Functional ovarian cysts Proteinuria Depression -- had started celexa for depression but she stopped it because it made her feel worse? Fungal skin infections -- chafing from working out",
+      "OPERATIONS AND PROCEDURES",
+      "7/30/06 LAP ROUX-EN-Y GASTRIC BYPASS ALLERGIES Sulfa (Unknown) LISINOPRIL (cough)",
+      "HISTORY AND REASON FOR HOSPITALIZATION AND SIGNIFICANT FINDINGS",
+      "The patient is a 41 year old female with IDDM, HTN, hyperlipidemia, proteinuria, depression and skin irritation? fungal infection scheduled for laparoscopic Roux-en-Y gastric bypass.",
+      "Surgery is scheduled on July 30, 2006 by Dr. Nonok Ayrekempe.",
+      "Long-standing obesity that has essentially been unresponsive to diet plans, diet drinks, and exercise.",
+      "She has lost weight at time but has not been able to keep it off."
+    ],
+    "past medical history": [],
+    "significant medical problems include": [
+      "1. IDDM",
+      "2. Hypertension",
+      "3. Hyperlipidemia",
+      "4. Proteinuria",
+      "5. Depression (had been on Celexa but stopped because of side effects)",
+      "6. Fatty liver (Thanksgiving -- Abd U/S showed severe fatty liver)",
+      "7. Skin irriatation vs fungal infection"
+    ],
+    "past surgical history": [],
+    "prior surgery includes": [
+      "1. Gum surgery (local)",
+      "2. Tonsillectomy, age 10"
+    ],
+    "family history": [
+      "There is no family history of adverse reactions to general anesthesia."
+    ],
+    "medications": [
+      "Insulin -> Humalog sliding scale with lunch and dinner, Lantus 125 units q HS; Metformin 1000 mg bid; Diovan 320 mg daily; Atenolol 100 mg daily; Lipitor 10 mg daily; Norvasc 5 mg daily; MVI; Iron supplement"
+    ],
+    "allergies": [
+      "Sulfa -- unknown Morphine -- headaches Kiwi -- itchy tongue Denies food, latex allergies"
+    ],
+    "social history": [],
+    "smoking": [
+      "1 ppd x 35 years, quit."
+    ],
+    "alcohol use": [
+      "social."
+    ],
+    "substance abuse": [
+      "denies."
+    ],
+    "allergen exposure (blood products/ pregnancy)": [
+      "none in the last 3 months."
+    ],
+    "exercise": [
+      "in the past has worked out daily with at least 1 hour of cardio, but then cut back significantly when this did not help her lose the weight."
+    ],
+    "occupation": [
+      "employed by Waton."
+    ],
+    "marital status": [
+      "single."
+    ],
+    "vital signs": [],
+    "bp": [
+      "114/75 mm Hg"
+    ],
+    "p": [
+      "89 bpm"
+    ]
+  },
+  {
+    "filename": "TEST_31.txt",
+    "label": -1,
+    "garbage_infos": [
+      "018639296",
+      "DH",
+      "0684468",
+      "898948",
+      "816644"
+    ],
+    "times": [
+      "08/26/2000 12:00:00 AM"
+    ],
+    "report status": [
+      "Signed",
+      "DISCHARGE SUMMARY"
+    ],
+    "name": [
+      "RONGSAPTHORE, LIMIE"
+    ],
+    "unit number": [
+      "268-38-69"
+    ],
+    "admission date": [
+      "08/26/2000"
+    ],
+    "discharge date": [
+      "08/28/2000"
+    ],
+    "history of present illness": [],
+    "reason for hospitalization": [
+      "The patient is a 67 year old male presenting with new onset of fevers and jaundice x one day.",
+      "He was in his usual state of health until 3 days prior to presentation when he first noted diffuse abdominal pain exacerbated by defecation and accompanied by diaphoresis.",
+      "Temperature of 102.7 was measured at home.",
+      "He noted the onset of jaundice one day prior to admission, and then visited his primary care provider, Dr. Vas of Grandhdale who referred him to Daughtersvillshamen's Hospital for admission.",
+      "The patient also noted the onset of diarrhea 3-4 times a day of yellow color without presence of blood.",
+      "He had not eaten any raw foods or other likely causes of infectious gastroenteritis."
+    ],
+    "past medical history": [
+      "Significant only for hypertension."
+    ],
+    "physical examination": [
+      "The patient has mild fever of 100.0 upon admission, otherwise stable.",
+      "Patient was markedly jaundiced on admission with very mild right upper quadrant tenderness to firm palpation and no noted lymphadenopathy.",
+      "Neurologic exam was benign and nonfocal.",
+      "Of note, the patient 's platelets were noted to be 91 with an alanine-aminotransferase of 64 and an aspartate-aminotransferase of 85.",
+      "Amylase and lipase were both elevated with amylase of 193 and lipase of 55.6.",
+      "A right upper quadrant ultrasound showed possibility of gallstones without ascites."
+    ],
+    "hospital course and treatment": [
+      "The patient was admitted, diet was cautiously advanced.",
+      "Abdominal computerized tomography scan was obtained and GI was consulted who recommended observation.",
+      "The following day, the patient 's fevers had resolved and the jaundice was additionally resolving.",
+      "Symptoms were felt to be attributable to possible past gallstone causing a brief episode of pancreatitis.",
+      "ERCP was performed by Gastroenterology on the 27th, which showed no stones and normal cystic duct and normal gallbladder.",
+      "Sphincterotomy was performed; no evidence of biliary disease was observed.",
+      "The patient was discharged on 08/28/00 in stable condition.",
+      "Of note, the patient was empirically treated with Ampicillin, Gentamicin, and Flagyl upon admission for the possibility of ascending cholangitis.",
+      "Blood cultures grew out E. Coli, pansensitive.",
+      "Patient was transitioned to Levofloxacin, 500 mg.",
+      "PO QD for two weeks, amylase, lipase and bilirubin and transaminases all trended down.",
+      "The patient felt considerably better.",
+      "The patient was discharged on Zantac, 50 PO BID, Levofloxacin, 500 QD for two weeks as mentioned and Mylanta PRN.",
+      "Since cystic kidneys were noted on the abdominal computerized tomography scan, and the patient is to follow up with his PCP, Dr. Vas.",
+      "The patient is also to follow up with Ophthalmology for an exam for retinal hemangioblastoma and the possibility of a head magnetic resonance imaging to evaluate for cerebellar hemangioma to consider the possibility of von Hippel-Lindau syndrome, no evidence of pheochromocytoma has been noted symptomatically."
+    ],
+    "follow up": [
+      "The patient is to follow up with Dr. Vas.",
+      "___________________ MALCRIN COT, M.D.",
+      "Electronically Signed MALCRIN COT, M.D. 11/29/2000 22:51"
+    ],
+    "tr": [
+      "fts"
+    ],
+    "dd": [
+      "11/02/2000"
+    ],
+    "td": [
+      "11/05/2000 10:26 A"
+    ]
+  },
+  {
+    "filename": "TEST_32.txt",
+    "label": -1,
+    "garbage_infos": [
+      "214735961",
+      "DH",
+      "9791919",
+      "379039",
+      "549614"
+    ],
+    "times": [
+      "9/9/2000 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION",
+      "CHURCUCHRHALT, LAQUE"
+    ],
+    "mrn": [
+      "9791919"
+    ],
+    "age": [
+      "52y"
+    ]
+  },
+  {
+    "filename": "TEST_33.txt",
+    "label": -1,
+    "garbage_infos": [
+      "766212923",
+      "ELMVH",
+      "70097548",
+      "1264110"
+    ],
+    "times": [
+      "11/9/2003 12:00:00 AM"
+    ],
+    "admission date": [
+      "11/09/2003"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "11/16/2003"
+    ],
+    "attending": [
+      "GROSRIANNE SISANDLEE JERGJESC M.D."
+    ],
+    "service": [
+      "GMS 1 Medical Service."
+    ],
+    "discharge diagnosis": [
+      "GI bleed."
+    ],
+    "discharge condition": [
+      "Stable."
+    ],
+    "hospital course": [],
+    "patient 's hospital course is as follows": [
+      "Patient is an 84-year-old male who was transferred from an outside hospital with a low hematocrit of 21 and with guaiac-positive stool.",
+      "The day prior to admission, he experienced dyspnea on exertion, and on the day of admission he collapsed and complained of substantial weakness.",
+      "He denied any melana, any hematemesis, nausea or vomiting.",
+      "He was taken to an outside hospital at the time at which time it was found that his hematocrit was 21, blood pressure 90/60, and his INR was 3.3.",
+      "Of note, he is anti-coagulated for an artificial heart valve.",
+      "He was at that point given 1 unit of packed red blood cells.",
+      "On further questioning, the patient reported that he started to feel \"different\" several days ago with slowing and difficult ambulation progressing to complete inability to ambulate.",
+      "He was also short of breath with ambulation, but he does have baseline shortness of breath with exertion.",
+      "He denied any chest pain, dysuria, loss of consciousness, fevers, chills or any history of myocardial infarction.",
+      "Patient was last admitted to Padrugmoff Hospital with a hematocrit of 24.5, and was asymptomatic prior to admission.",
+      "At that time, he had guaiac-positive and had a small bowel follow through which was negative.",
+      "He was transfused 4 units during that admission and discharged with a hematocrit of 34 on vitamin C and iron sulfate."
+    ],
+    "exam on arrival in the lo hospital emergency room": []
+  },
+  {
+    "filename": "TEST_34.txt",
+    "label": -1,
+    "garbage_infos": [
+      "070203832",
+      "DH",
+      "8446543",
+      "678338",
+      "6804475"
+    ],
+    "times": [
+      "4/2/2003 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION",
+      "GUYNLUDZ, STASIERDI"
+    ],
+    "mrn": [
+      "8446543"
+    ],
+    "age": [
+      "56y"
+    ],
+    "registration date": [
+      "04/02/2003 07:18 AM",
+      "PRELIMINARY REPORT",
+      "This is to notify you that your patient, GUYNLUDZ, STASIERDI arrived in the Emergency Department at Daughtersvillshamen's Hospital on 04/02/2003 07:18 AM.",
+      "The patient presented with a chief complaint of ABD PAIN.",
+      "Following evaluation and treatment, the patient 's disposition at the end of the visit was ADMITTED TO OBSERVATION AT DAUGHTERSVILLSHAMEN'S HOSPITAL.",
+      "The patient 's preliminary admitting physician is SHUFFCURB, PERMA H and the preliminary diagnosis is CHEST PAIN.",
+      "Please note this information may have been updated on the inpatient unit.",
+      "If you need additional information please call 613-870-0699."
+    ],
+    "pcp name": [
+      "FYFE, PRERICK A"
+    ]
+  },
+  {
+    "filename": "TEST_35.txt",
+    "label": -1,
+    "garbage_infos": [
+      "054478430",
+      "ELMVH",
+      "79660638",
+      "1835979",
+      "****** FINAL DISCHARGE ORDERS ******",
+      "HIBBSKOTE, SIALIND 071-43-95-1 W78"
+    ],
+    "times": [
+      "12/11/2005 12:00:00 AM"
+    ],
+    "admission date": [
+      "12/11/2005"
+    ],
+    "report status": [],
+    "discharge date": [
+      "12/13/2005"
+    ],
+    "room": [
+      "65Q-505"
+    ],
+    "service": [
+      "ORT"
+    ],
+    "discharge patient on": [
+      "12/13/05 AT 12:00 PM",
+      "CONTINGENT UPON",
+      "Not Applicable"
+    ],
+    "will d/c order be used as the d/c summary": [
+      "YES"
+    ],
+    "attending": [
+      "HEAD, SANTDEL L., M.D."
+    ],
+    "code status": [
+      "Full code"
+    ],
+    "disposition": [
+      "Home"
+    ],
+    "discharge medications": [],
+    "tylenol (acetaminophen) 325-650 mg po q4h prn pain, headache, temperature greater than": [
+      "101 COLACE (DOCUSATE SODIUM) 100 MG PO BID OXYCODONE 10-25 MG PO Q3H PRN Pain"
+    ],
+    "hold if": [
+      "excesive sedation RR < 6 FLEXERIL (CYCLOBENZAPRINE HCL) 10 MG PO TID PRN Pain"
+    ],
+    "diet": [
+      "House/ADA 2100 cals/day/Low saturated fat low cholesterol < FDI >"
+    ],
+    "activity": [
+      "Walking as tolerated"
+    ],
+    "follow up appointment (s)": [
+      "Dr. Maa Bloch (WAMA HEALTH) Call ASAP to schedule in 1-2 days"
+    ],
+    "phoen": [
+      "381-389-5852,",
+      "Dr. Santdel Head Call ASAP to schedule in 2 weeks.",
+      "449-059-6882,"
+    ],
+    "allergy": [
+      "NKA"
+    ],
+    "admit diagnosis": [
+      "R leg pain",
+      "PRINCIPAL DISCHARGE DIAGNOSIS;",
+      "Responsible After Study for Causing Admission) Right LE pain",
+      "OTHER DIAGNOSIS;",
+      "Conditions, Infections, Complications, affecting Treatment/Stay",
+      "DM"
+    ],
+    "operations and procedures": [
+      "None",
+      "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
+      "PT Spien MRI Pelvis XR R hip Xray"
+    ],
+    "brief resume of hospital course": [],
+    "hpi": [
+      "Hibbskote has severe low back pain radiating down the right leg.",
+      "She has been suffering from this problem for the last few weeks.",
+      "A week and half ago, she had a steroid injection in an efforts to ameliorate the pain.",
+      "She presents now with worsening low back pain radiating down the right leg.",
+      "She denies numbness or weakness in any part of the body.",
+      "She denies fever.",
+      "She denies nausea, vomiting, and diarrhea.",
+      "She denies chest pain.",
+      "She says the pain is sharp in character, and radiates with a shock like intensity down the right leg.",
+      "She says that oral analgesics have been of little help.",
+      "On detailed review of systems, she admitted to one episode of urinary incontinence.",
+      "She denied any changes in bowel habits."
+    ],
+    "past medical history": [
+      "Non-insulin-requiring diabetes mellitus, and hypercholesterolemia."
+    ],
+    "past surgical history": [
+      "As given above."
+    ],
+    "social history": [
+      "Negative for tobacco, drugs, or domestic violence."
+    ],
+    "family history": [
+      "Negative."
+    ],
+    "review of systems": [
+      "All systems were reviewed and were negative except as given above."
+    ],
+    "medications": [
+      "Metformin, Zocor, and analgesics."
+    ],
+    "allergies": [
+      "None."
+    ]
+  },
+  {
+    "filename": "TEST_36.txt",
+    "label": -1,
+    "garbage_infos": [
+      "665274856",
+      "DH",
+      "8857051",
+      "631167",
+      "8210311"
+    ],
+    "times": [
+      "3/2/2004 12:00:00 AM"
+    ],
+    "report status": [
+      "Revised",
+      "ED DISCHARGE NOTIFICATION/SUMMARY",
+      "SAPA, LEAY"
+    ],
+    "mrn": [
+      "8857051"
+    ],
+    "age": [
+      "44y"
+    ],
+    "registration date": [
+      "03/02/2004 06:51 AM"
+    ],
+    "provider": [
+      "NANSO GOINGNETHBUMPS"
+    ],
+    "preliminary report revised with addendum": [
+      "3/3/04 5:33:43 PM"
+    ],
+    "pcp notified by md": [
+      "Yes - Direct contact with PCP"
+    ],
+    "benefits assigned": [
+      "N"
+    ],
+    "discharge date/time": [
+      "03/02/2004 14:44"
+    ],
+    "discharge status": [
+      "Discharged"
+    ],
+    "condition on discharge": [
+      "Stable"
+    ],
+    "patient states complaint": [
+      "EPIGASTRIC PAIN"
+    ],
+    "diagnosis": [
+      "pancreatitis, dyspepsia"
+    ],
+    "treatment rendered": [
+      "pain control"
+    ],
+    "discharge medications": [
+      "prilosec 20 mg twice a day percocet 1-2 tablets every 6 hours as needed for pain maalox as needed"
+    ],
+    "follow up service": [
+      "Maintain your appointments with oncology and gastroenterology."
+    ],
+    "disposition, follow up and instructions to patient": [
+      "If you have worsening symptoms or continued vomiting you should return as this may be indicative of worsening pancreatitis, which would require bowel rest and intravenous pain medication.",
+      "Other worrisome symptoms that would warrant re-evaluation include blood in your vomit or stool, lightheadedness or fainting."
+    ],
+    "pcp name": [
+      "DREWE, ALVEIE S"
+    ],
+    "provider number": [
+      "64702",
+      "This report was created by GOINGNETHBUMPS, NANSO 03/02/2004 02:48 PM"
+    ]
+  },
+  {
+    "filename": "TEST_37.txt",
+    "label": -1,
+    "garbage_infos": [
+      "932057504",
+      "DH",
+      "5898830",
+      "809200",
+      "356490"
+    ],
+    "times": [
+      "11/25/2000 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION",
+      "AGACHBRAUCH, RENSIAANARC"
+    ],
+    "mrn": [
+      "5898830"
+    ],
+    "age": [
+      "44y"
+    ]
+  },
+  {
+    "filename": "TEST_38.txt",
+    "label": -1,
+    "garbage_infos": [
+      "151524518",
+      "SC",
+      "24129456",
+      "9902720"
+    ],
+    "times": [
+      "8/22/2003 12:00:00 AM"
+    ],
+    "admission date": [
+      "08/22/2003"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "09/10/2003"
+    ],
+    "date of discharge": [
+      "09/10/2003"
+    ],
+    "attending": [
+      "TRUE TLANDCHIRD MD"
+    ],
+    "history of present illness": [
+      "At the time of admission, the patient is a 60-year-old male with known coronary artery disease, hypertension, hypercholesterolemia, presented after an episode of chest pain radiating to the jaw but no radiation to arms, associated with shortness of breath and diaphoresis.",
+      "There are several past episodes that brought him to ED.",
+      "Episode occurred while the patient was trimming his hedges.",
+      "The patient took approximately 8 SLTNG (one than 1 year old) without relief, ASA with mild relief of pain, then called EMS, pain free with SLTNG, nitro spray in the ambulance.",
+      "In the ED, enzymes are negative.",
+      "On 08/23/03, enzymes were elevated.",
+      "EKG with 1 mm ST increase in V2 to V3, diagnosed as subendocardial (non-Q-wave MI).",
+      "A 12-beat run of V-tach without symptoms occurred on 08/23/03.",
+      "The patient slept during the episode."
+    ],
+    "preoperative cardiac status": [
+      "Myocardial infarction 08/23/03, requiring hospitalization, associated with prolonged chest pain, peak CK 237, peak CK-MB 16.2, troponin 4.66.",
+      "Myocardial infarction in 1986, 1991 requiring hospitalization associated with prolonged chest pain.",
+      "The patient has a history of class V angina but has no recent angina.",
+      "The patient has had symptomatic heart failure.",
+      "The patient is in normal sinus rhythm.",
+      "Previous cardiovascular interventions, stent 07/2000."
+    ],
+    "past medical history": [
+      "Hypertension, hypercholesterolemia, coronary artery disease, and history of tuberculosis."
+    ],
+    "past surgical history": [
+      "Status post cholecystectomy 12 years ago."
+    ],
+    "family history": [
+      "Coronary artery disease.",
+      "Father with MI."
+    ],
+    "social history": [
+      "History of tobacco use, 40-pack year cigarette smoking history, used within the last year.",
+      "History of alcohol use, 12 beers per week.",
+      "Last drink 08/18/03."
+    ],
+    "allergies": [
+      "Codeine causes stomach upset."
+    ],
+    "medications": [
+      "Atenolol 75 mg p.o. q.d., lisinopril 30 mg p.o. q.d., aspirin 325 p.o. q.d., HCTZ 25 mg p.o. q.d., atorvastatin p.o. q.d., Cardizem 300 mg p.o. q.d."
+    ],
+    "physical examination": [
+      "At the time of admission, 5 feet 9 inches, 76.81 kg."
+    ],
+    "vital signs": [
+      "Temperature 97.6, heart rate 68, blood pressure right arm 124/84."
+    ],
+    "heent": [
+      "PERRLA.",
+      "Dentition is without evidence of infection.",
+      "No carotid bruits.",
+      "Chest with no incisions."
+    ],
+    "cardiovascular": [
+      "Regular rate and rhythm, no murmurs.",
+      "Pulses are 2+ and equal bilaterally and symmetrical."
+    ],
+    "respiratory": [
+      "Expiratory wheezing throughout."
+    ],
+    "abdomen": [
+      "Right lower quadrant incision of appendectomy, soft, no masses."
+    ],
+    "rectal": [
+      "Deferred."
+    ],
+    "extremities": [
+      "Without scarring, varicosities, or edema."
+    ],
+    "neuro": [
+      "Alert and oriented, no focal deficits."
+    ],
+    "labs": [
+      "At the time of admission, sodium 138, potassium 4.1, chloride 100, carbon dioxide 28, BUN 12, creatinine 0.9, glucose 111, magnesium 2.1."
+    ]
+  },
+  {
+    "filename": "TEST_39.txt",
+    "label": -1,
+    "garbage_infos": [
+      "430403085",
+      "SC",
+      "61295919",
+      "644234"
+    ],
+    "times": [
+      "7/8/1995 12:00:00 AM"
+    ],
+    "admission date": [
+      "07/08/1995"
+    ],
+    "report status": [
+      "Signed"
+    ],
+    "discharge date": [
+      "07/19/1995"
+    ],
+    "principal diagnosis": [
+      "Orthostatic hypotension."
+    ],
+    "other problems": [
+      "Hyponatremia.",
+      "Hypokalemia."
+    ],
+    "history of present illness": [
+      "The patient is a 66 year old white female without a significant past medical history who presented in the Middso Memorial Hospital Emergency Room following a nine day history of dizziness on standing without loss of consciousness.",
+      "During the week prior to admission, the patient complained of severe constipation, dry mouth, possible urinary retention along with some nausea and vomiting.",
+      "She felt that she was profoundly cold at the time.",
+      "In the emergency room, the patient was hypotensive with an initial blood pressure of 92/70 and a pulse of 96 lying flat that became 70/50 with a pulse of 104 when standing.",
+      "The patient was aggressively hydrated with a total of 9 liters of normal saline over a 7 hour period with marginal increase in blood pressure.",
+      "Over the same period of time, the patient became increasingly hypoxic and developed worsening hypertension.",
+      "Stat chest x-ray showed pulmonary edema.",
+      "The patient was subsequently transferred to the MICU on Dopamine for further management."
+    ],
+    "past medical history": [
+      "Only noticeable for remote appendectomy and being gravida V, para V."
+    ],
+    "medications on admission": [
+      "None."
+    ],
+    "allergies": [
+      "No known drug allergies."
+    ],
+    "social history": [
+      "The patient has an 80-pack-year history of tobacco and is currently smoking 1-2 packs per day.",
+      "She also has a questionable alcohol history of up to one quart daily.",
+      "She is married and lives with her husband."
+    ],
+    "family history": [
+      "Notable for coronary artery disease in both parents without a history of cancer or autoimmune disease, diabetes, thyroid disease."
+    ]
+  },
+  {
+    "filename": "TEST_40.txt",
+    "label": -1,
+    "garbage_infos": [
+      "829426955",
+      "DH",
+      "9088460",
+      "115102",
+      "6418988"
+    ],
+    "times": [
+      "11/18/2002 12:00:00 AM"
+    ],
+    "report status": [
+      "Unsigned",
+      "ED DISCHARGE NOTIFICATION/SUMMARY",
+      "WIERSTKERTH, RI"
+    ],
+    "mrn": [
+      "9088460"
+    ],
+    "age": [
+      "59y"
+    ],
+    "registration date": [
+      "11/18/2002 08:31 PM"
+    ],
+    "provider": [
+      "Biri Weertluc",
+      "PRELIMINARY REPORT PCP"
+    ],
+    "notified by md": [
+      "No - Other explanation"
+    ],
+    "benefits assigned": [
+      "N"
+    ],
+    "discharge date/time": [
+      "11/19/2002 00:11"
+    ],
+    "discharge status": [
+      "Discharged"
+    ],
+    "condition on discharge": [
+      "Stable"
+    ],
+    "patient states complaint": [
+      "CP Standardized"
+    ],
+    "discharge instructions": [
+      "The patient was given printed instructions for abdominal pain (English)."
+    ],
+    "diagnosis": [
+      "Epigastric discomfort"
+    ],
+    "treatment rendered": [
+      "Medical evaluation.",
+      "Your SGPT is 64, SGOT is 96.",
+      "You x-ray, ekg, and other laboratories are normal."
+    ],
+    "discharge medications": [
+      "None"
+    ],
+    "disposition, follow up and instructions to patient": [
+      "Followup with your primary care physician in Monday for repeat liver function testing.",
+      "You may need an abdominal ultrasound as an outpatient.",
+      "Return immediately for increasing abdominal pain, chest pain, shortness of breath, or otherwise feeling worse."
+    ],
+    "accepting/dh admitting physician": [
+      "MAO THO"
+    ],
+    "pcp name": [
+      "SWANKEMANDESSKIAIS, SANTCINET E"
+    ]
+  }
+]
