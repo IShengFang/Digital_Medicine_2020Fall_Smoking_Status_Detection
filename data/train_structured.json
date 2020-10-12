@@ -84,8 +84,7 @@
       "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
       "Exercise stress test Lower extremity ultrasound"
     ],
-    "brief resume of hospital course": [],
-    "cc": [
+    "brief resume of hospital course": [
       "Atypical CP 54 yo smoker, hx of hyperlipidemia, htn, DM, TAH/BSO age 48, and hx of atypical cp.",
       "She presented in 1999 and stress-ECHO, she exercised 9.5 min without pain, ECHO was nl with no wall motional abn, but EKG showed 1mm ST depressions.",
       "In 2001, she again p/w CP and ETT again showed 1mm ST depression, exercised 9min.",
@@ -689,9 +688,6 @@
     ],
     "dd": [
       "07/30/2005"
-    ],
-    "td": [
-      "07/31/2005 9:43 A 123524"
     ]
   },
   {
@@ -787,8 +783,7 @@
       "OTHER TREATMENTS/PROCEDURES (NOT IN O.R.)",
       "none"
     ],
-    "brief resume of hospital course": [],
-    "cc": [
+    "brief resume of hospital course": [
       "SOB/DOE",
       "HPI. 51F w h/o tobacco and crack use p/w SOB/DOE worsening over the past 3 weeks and breast soreness, with troponin 0.15 in ED.",
       "Patient had 2 weeks of cough, fever, SOB when presented to ED 2/11 and was discharged to home with 7 days of Levaquin for presumed CAP with infiltrate on CXR.",
@@ -1014,9 +1009,6 @@
     ],
     "dd": [
       "12/19/2001"
-    ],
-    "td": [
-      "12/23/2001 5:22 P"
     ]
   },
   {
@@ -1245,9 +1237,6 @@
     ],
     "dd": [
       "07/20/2001"
-    ],
-    "td": [
-      "07/22/2001 1:28 P"
     ]
   },
   {
@@ -1344,9 +1333,6 @@
     ],
     "dd": [
       "03/09/2004"
-    ],
-    "td": [
-      "03/10/2004 10:28 P 542584"
     ]
   },
   {
@@ -1580,9 +1566,6 @@
     ],
     "dd": [
       "09/15/2000"
-    ],
-    "td": [
-      "09/21/2000 10:58 P"
     ]
   },
   {
@@ -1670,9 +1653,6 @@
     ],
     "dd": [
       "03/26/2001"
-    ],
-    "td": [
-      "03/31/2001 10:13 A"
     ]
   },
   {
@@ -1787,9 +1767,6 @@
     ],
     "dd": [
       "05/30/2003"
-    ],
-    "td": [
-      "06/02/2003 2:49 P 480705"
     ]
   },
   {
@@ -2096,9 +2073,6 @@
     ],
     "dd": [
       "09/11/2003"
-    ],
-    "td": [
-      "09/12/2003 2:23 P 366967"
     ]
   },
   {
@@ -2801,9 +2775,6 @@
     ],
     "dd": [
       "03/29/97"
-    ],
-    "td": [
-      "03/31/97 12:36 P"
     ]
   },
   {
@@ -3309,9 +3280,6 @@
     ],
     "dd": [
       "07/05/2005"
-    ],
-    "td": [
-      "07/06/2005 9:50 A 244794"
     ]
   },
   {
