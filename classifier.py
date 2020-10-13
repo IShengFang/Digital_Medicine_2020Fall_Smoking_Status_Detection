@@ -1,16 +1,73 @@
 # -*- coding: utf-8 -*-
+import os
 import re
+import json
 import string
 import operator
-import preprocess
-import numpy as np
+from os.path import normpath, basename
 
-LABEL = {
-    'smoke': 0,
-    'non-smoke': 1,
-    'past-smoke': 2,
-    'unknown': 3
-}
+CURRENT_SMOKE = 0
+NON_SMOKE = 1
+PAST_SMOKE = 2
+UNKNOWN = 3
+
+
+def parse_raw(folder, savefile=True):
+    result = []
+
+    for file in os.listdir(folder):
+        if file.endswith('.txt'):
+            if file.startswith('CURRENT'):
+                label = CURRENT_SMOKE
+            elif file.startswith('NON'):
+                label = NON_SMOKE
+            elif file.startswith('PAST'):
+                label = PAST_SMOKE
+            elif file.startswith('UNKNOWN'):
+                label = UNKNOWN
+            else:
+                label = -1
+
+            data = {
+                'filename': file,
+                'label': label,
+                'garbage_infos': [],
+                'times': []
+            }
+            key = None
+            values = []
+            with open(f'{folder}/{file}', 'r', encoding='utf8') as fp:
+                for line in fp:
+                    line = re.sub(r'\s+([.,:;\?!\])])', r'\1', line.strip())
+                    line = re.sub(r'([\[(])\s+', r'\1', line)
+                    line = re.sub(r'\s+(/)\s+', r' \1 ', line)
+                    line = re.sub(r'"\s+(.+)\s+"', r'"\1"', line).strip()
+
+                    if line.lower() == 'cc:':
+                        continue
+
+                    if line.endswith(':'):
+                        if key is not None:
+                            data[key.lower()] = values
+                        key = line[:-1]
+                        values = []
+                    elif re.findall(r'^\d+\s*[a-zA-Z]*$', line) and key is None:
+                        data['garbage_infos'] += line.split(' ')
+                    elif line.startswith('*****'):
+                        data['garbage_infos'].append(line)
+                    elif re.findall(r'^[A-Z]+,\s+[A-Z]+\s+[0-9]+-', line):
+                        data['garbage_infos'].append(line)
+                    elif re.findall(r'\d+/\d+/\d+\s+\d+:\d+(:\d+)?\s+(AM|PM)$', line) and key is None:
+                        data['times'].append(line)
+                    elif key is not None:
+                        values.append(line)
+
+            result.append(data)
+
+    if savefile:
+        json.dump(result, open(f'./data/{basename(normpath(folder))}_structured.json', 'w', encoding='utf8'), indent=2, ensure_ascii=False)
+
+    return result
 
 
 def get_contents(data):
@@ -39,14 +96,14 @@ def get_relate_sentences(content, keywords):
     return result
 
 
-def predict(data, smoke, no, stop):
+def predict(data, smoke_kw, neg_kw, stop_kw):
     contents = get_contents(data)
-    sentences = get_relate_sentences(contents, smoke+no+stop)
+    sentences = get_relate_sentences(contents, smoke_kw+neg_kw+stop_kw)
     table = str.maketrans('', '', string.punctuation)
     count = {
-        'smoke': 0,
-        'non-smoke': 0,
-        'past-smoke': 0
+        CURRENT_SMOKE: 0,
+        NON_SMOKE: 0,
+        PAST_SMOKE: 0
     }
 
     for sentence in sentences:
@@ -55,22 +112,22 @@ def predict(data, smoke, no, stop):
         has_neg = False
         has_stop = False
         for w in words:
-            if w in smoke:
+            if w in smoke_kw:
                 if has_neg:
-                    count['non-smoke'] += 1
+                    count[NON_SMOKE] += 1
                     has_neg = False
                 elif has_stop:
-                    count['past-smoke'] += 1
+                    count[PAST_SMOKE] += 1
                     has_stop = False
                 else:
-                    count['smoke'] += 1
-            elif w in no:
+                    count[CURRENT_SMOKE] += 1
+            elif w in neg_kw:
                 has_neg = not has_neg
-            elif w in stop:
+            elif w in stop_kw:
                 has_stop = not has_stop
 
-    if count['smoke']==0 and count['non-smoke']==0 and count['past-smoke']==0:
-        predict = 'unknown'
+    if count[CURRENT_SMOKE]==0 and count[NON_SMOKE]==0 and count[PAST_SMOKE]==0:
+        predict = UNKNOWN
     else:
         predict = max(count.items(), key=operator.itemgetter(1))[0]
 
@@ -78,23 +135,23 @@ def predict(data, smoke, no, stop):
 
 
 if __name__ == '__main__':
-    train = preprocess.parse_raw('./raw/train', savefile=True)
-    test = preprocess.parse_raw('./raw/test', savefile=True)
+    train = parse_raw('./raw/train', savefile=True)
+    test = parse_raw('./raw/test', savefile=True)
 
-    smoke = load_words('./data/smoke.txt')
-    no = load_words('./data/neg.txt')
-    stop = load_words('./data/stop.txt')
+    smoke_kw = load_words('./data/smoke_kw.txt')
+    neg_kw = load_words('./data/neg_kw.txt')
+    stop_kw = load_words('./data/stop_kw.txt')
 
     correct = 0
     for data in train:
-        p = predict(data, smoke, no, stop)
-        if LABEL[p] == data['label']:
+        pred = predict(data, smoke_kw, neg_kw, stop_kw)
+        if pred == data['label']:
             correct += 1
     print(f'Acc on train: {100.*correct/len(train)}%')
 
     correct = 0
     for data in test:
-        p = predict(data, smoke, no, stop)
-        if LABEL[p] == data['label']:
+        pred = predict(data, smoke_kw, neg_kw, stop_kw)
+        if pred == data['label']:
             correct += 1
-    # print(f'Acc on test: {100.*correct/len(test)}%')
+    print(f'Acc on test: {100.*correct/len(test)}%')
