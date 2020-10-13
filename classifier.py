@@ -90,9 +90,11 @@ def load_words(path):
 def get_relate_sentences(content, keywords):
     result = []
     for sentence in content:
+        s = sentence.lower()
         for word in keywords:
-            if re.findall(r'\b'+word+r'\b', sentence.lower()):
-                result.append(sentence.lower())
+            if re.findall(r'\b'+word+r'\b', s):
+                result.append(s)
+                break
     return result
 
 
@@ -107,6 +109,10 @@ def predict(data, smoke_kw, neg_kw, stop_kw):
     }
 
     for sentence in sentences:
+        if 'smoked' in sentence:
+            count[PAST_SMOKE] += 1
+            continue
+
         words = sentence.split()
         words = [w.translate(table) for w in words]
         has_neg = False
@@ -115,12 +121,13 @@ def predict(data, smoke_kw, neg_kw, stop_kw):
             if w in smoke_kw:
                 if has_neg:
                     count[NON_SMOKE] += 1
-                    has_neg = False
+                    # has_neg = False/
                 elif has_stop:
                     count[PAST_SMOKE] += 1
-                    has_stop = False
+                    # has_stop = False
                 else:
                     count[CURRENT_SMOKE] += 1
+                break
             elif w in neg_kw:
                 has_neg = not has_neg
             elif w in stop_kw:
@@ -145,6 +152,8 @@ if __name__ == '__main__':
     correct = 0
     for data in train:
         pred = predict(data, smoke_kw, neg_kw, stop_kw)
+        print(f'{data["filename"]:25}, GT: {data["label"]}, pred: {pred}', end='')
+        print('' if pred==data['label'] else ' (wrong)')
         if pred == data['label']:
             correct += 1
     print(f'Acc on train: {100.*correct/len(train)}%')
