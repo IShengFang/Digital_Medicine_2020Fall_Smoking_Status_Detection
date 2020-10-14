@@ -3,12 +3,11 @@ import os
 import re
 import json
 import string
+import seaborn
 import operator
-import numpy as np
+import matplotlib.pyplot as plt
 from os.path import normpath, basename
-from sklearn.metrics import confusion_matrix
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import accuracy_score, confusion_matrix
 
 CURRENT_SMOKE = 0
 NON_SMOKE = 1
@@ -150,6 +149,16 @@ def predict(data, smoke_kw, neg_kw, stop_kw):
     return predict
 
 
+def plot_confusion_matrix(cm, labels):
+    plt.title('Confusion Matrix')
+    ax = seaborn.heatmap(cm, annot=True, cmap="YlGnBu")
+    ax.set_xticklabels(labels, rotation=45)
+    ax.set_yticklabels(labels, rotation=0)
+    ax.set(ylabel='Ground truth', xlabel='Prediction')
+    plt.tight_layout()
+    plt.savefig('cm.png', dpi=300)
+
+
 if __name__ == '__main__':
     # parse plain text files
     train = parse_raw('./raw/train', savefile=True)
@@ -161,41 +170,17 @@ if __name__ == '__main__':
     stop_kw = load_words('./data/stop_kw.txt')
 
     # rule-based classifier
-    print('\nRule-based classifier:\n--------------------')
-    print('Performance on training set:')
-    correct = 0
+    gt = [t['label'] for t in train]
+    pred = []
     for t in train:
-        pred = predict(t, smoke_kw, neg_kw, stop_kw)
-        if pred == t['label']:
-            correct += 1
-    print(f'Acc: {100.*correct/len(train)}%\n')
+        pred.append(predict(t, smoke_kw, neg_kw, stop_kw))
+    print(f'Acc on training set: {accuracy_score(gt, pred)}')
 
-    print('Performance on testing set:')
+    cm = confusion_matrix(gt, pred, [0, 1, 2, 3])
+    plot_confusion_matrix(cm, LABEL)
+    print('Confusion matrix on training set -> saved to cm.png')
+
     for t in test:
         pred = predict(t, smoke_kw, neg_kw, stop_kw)
-        print(f'{t["filename"]}, prediction: {LABEL[pred]}')
-    print('====================\n')
-
-    # tf-idf and random forest classifier
-    print('Random forest classifier (tf-idf score):\n--------------------')
-    contents_train, contents_test, y = [], [], []
-    for t in train:
-        contents_train.append(get_content_merged(t))
-        y.append(t['label'])
-    for t in test:
-        contents_test.append(get_content_merged(t))
-    y = np.array(y)
-
-    vectorizer = TfidfVectorizer(max_df=0.8, min_df=1)
-    vectorizer.fit(contents_train)
-    feature_names = vectorizer.get_feature_names()
-    print(f'# of features: {len(feature_names)}')
-    x_train = vectorizer.transform(contents_train)
-    x_test = vectorizer.transform(contents_test)
-    clf = RandomForestClassifier(n_estimators=500, max_features=0.6)
-    clf.fit(x_train, y)
-    pred = clf.predict(x_test)
-    print('Performance on testing set:')
-    for i, t in enumerate(test):
-        print(f'{t["filename"]}, prediction: {LABEL[pred[i]]}')
-    print()
+        print(f'{LABEL[pred]}', file=open('case1_1.txt', 'a+', encoding='utf8'))
+    print('Prediction on testing set -> saved to case1_1.txt')
