@@ -92,17 +92,6 @@ def get_content(data):
     return content
 
 
-def get_content_merged(data):
-    content = ''
-    for k, v in data.items():
-        if k=='garbage_infos' or k=='filename' or k=='label':
-            continue
-        for elem in v:
-            content += elem
-            content += '. ' if elem[-1:].isalnum() else ' '
-    return content.strip()
-
-
 def load_words(path):
     words = []
     with open(path, 'r', encoding='utf8') as fp:
