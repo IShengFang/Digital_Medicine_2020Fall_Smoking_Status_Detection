@@ -73,10 +73,12 @@
       "Iv contrast dyes, Avandia (thiazolidinodione antidiab.)"
     ],
     "admit diagnosis": [
-      "Atypical Chest Pain",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) Atypical chest pain",
-      "OTHER DIAGNOSIS;",
+      "Atypical Chest Pain"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) Atypical chest pain"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay SMOKER HTN ATYP CP (NEG EXER ECHO) GERD dm (diabetes mellitus)"
     ],
     "operations and procedures": [
@@ -289,10 +291,12 @@
       "Firmert Hospital 11/6 at 9am scheduled, Cialneinsisters Hospital And Medical Center 11/16 at 8:15pm scheduled, Dr. Condnort 12/04 at 2pm scheduled, Dr. Lila Spielbjaque 12/01 at 1:50pm scheduled, No Known Allergies"
     ],
     "admit diagnosis": [
-      "r / o MI",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) Obstructive Sleep Apnea",
-      "OTHER DIAGNOSIS;",
+      "r / o MI"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) Obstructive Sleep Apnea"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay HTN tobacco EtOh abuse sinus bradycardia"
     ],
     "operations and procedures": [
@@ -772,10 +776,12 @@
       "CEPHALEXIN, DIVALPROEX SODIUM"
     ],
     "admit diagnosis": [
-      "shortness of breath",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) CHF, polysubstance abuse, COPD",
-      "OTHER DIAGNOSIS;",
+      "shortness of breath"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) CHF, polysubstance abuse, COPD"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay crack use, tobacco use, schizoaffective d / o"
     ],
     "operations and procedures": [
@@ -910,10 +916,12 @@
       "Shellfish"
     ],
     "admit diagnosis": [
-      "chest pain",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) acute inferior MI",
-      "OTHER DIAGNOSIS;",
+      "chest pain"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) acute inferior MI"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay hypertension, hypercholesterolemia,"
     ],
     "oa operations and procedures": [
@@ -2321,9 +2329,13 @@
       "NKA"
     ],
     "admit diagnosis": [
-      "chest tightness, dyspnea on exertion",
-      "PRINCIPAL DISCHARGE DIAGNOSIS; Responsible After Study for Causing Admission) exertional dyspnea",
-      "OTHER DIAGNOSIS; Conditions, Infections, Complications, affecting Treatment / Stay dypsnea on exertion chest tightness"
+      "chest tightness, dyspnea on exertion"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) exertional dyspnea"
+    ],
+    "other diagnosis": [
+      "Conditions, Infections, Complications, affecting Treatment / Stay dypsnea on exertion chest tightness"
     ],
     "operations and procedures": [
       "OTHER TREATMENTS / PROCEDURES (NOT IN O.R.)",
@@ -2832,9 +2844,13 @@
       "Dr. Ee, patient to arrange, No Known Allergies"
     ],
     "admit diagnosis": [
-      "TCA overdose",
-      "PRINCIPAL DISCHARGE DIAGNOSIS; Responsible After Study for Causing Admission) TCA overdose",
-      "OTHER DIAGNOSIS; Conditions, Infections, Complications, affecting Treatment / Stay depression (depression)"
+      "TCA overdose"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) TCA overdose"
+    ],
+    "other diagnosis": [
+      "Conditions, Infections, Complications, affecting Treatment / Stay depression (depression)"
     ],
     "operations and procedures": [
       "OTHER TREATMENTS / PROCEDURES (NOT IN O.R.)",
@@ -2922,9 +2938,12 @@
       "NKA"
     ],
     "admit diagnosis": [
-      "Pregnancy; Wilson 's Disease; Crohn 's Disease",
-      "PRINCIPAL DISCHARGE DIAGNOSIS; Responsible After Study for Causing Admission) s / p svd",
-      "OTHER DIAGNOSIS;",
+      "Pregnancy; Wilson 's Disease; Crohn 's Disease"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) s / p svd"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay wilsons disease crohns (Crohns disease) med noncompliance depression (depression)"
     ],
     "operations and procedures": [],

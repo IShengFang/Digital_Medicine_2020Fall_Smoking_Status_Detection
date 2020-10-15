@@ -315,9 +315,13 @@
       "Penicillins"
     ],
     "admit diagnosis": [
-      "atypical cp",
-      "PRINCIPAL DISCHARGE DIAGNOSIS; Responsible After Study for Causing Admission) atypical chest pain",
-      "OTHER DIAGNOSIS; Conditions, Infections, Complications, affecting Treatment / Stay dm (diabetes mellitus) anxiety (anxiety) htn (hypertension) gerd (esophageal reflux)"
+      "atypical cp"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) atypical chest pain"
+    ],
+    "other diagnosis": [
+      "Conditions, Infections, Complications, affecting Treatment / Stay dm (diabetes mellitus) anxiety (anxiety) htn (hypertension) gerd (esophageal reflux)"
     ],
     "operations and procedures": [
       "OTHER TREATMENTS / PROCEDURES (NOT IN O.R.)"
@@ -530,10 +534,12 @@
       "NKA"
     ],
     "admit diagnosis": [
-      "TIA",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) TIA",
-      "OTHER DIAGNOSIS;",
+      "TIA"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) TIA"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay",
       "TIA"
     ],
@@ -1229,10 +1235,12 @@
       "NKA"
     ],
     "admit diagnosis": [
-      "PVD",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) PVD",
-      "OTHER DIAGNOSIS;",
+      "PVD"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) PVD"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay",
       "dyslipidemia, HTN, carotid occlusive dz, h / o pyloric stenosis"
     ],
@@ -1296,8 +1304,9 @@
       "The patient presented to the Sloan- Center Emergency Department, where he was resuscitated with normal saline and received morphine for pain.",
       "He was then transferred to the general medicine service for further management."
     ],
-    "past medical history": [
-      "(1) GERD; (2) Pneumonia with partially collapsed lung in 1999."
+    "past medical history": [],
+    "(1) gerd": [
+      "(2) Pneumonia with partially collapsed lung in 1999."
     ],
     "past surgical history": [
       "None."
@@ -1795,10 +1804,12 @@
       "Dr. Scaher Grend, RAMMCO 8/20, 3:30pm scheduled, No Known Allergies"
     ],
     "admit diagnosis": [
-      "hematemesis",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) erosive esophagitis",
-      "OTHER DIAGNOSIS;",
+      "hematemesis"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) erosive esophagitis"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay right scrotal hydrocele bph (benign prostatic hypertrophy)? nph (? hydrocephalus) dementia (dementia)"
     ],
     "operations and procedures": [
@@ -2731,8 +2742,9 @@
     "family history": [
       "There is no family history of adverse reactions to general anesthesia."
     ],
-    "medications": [
-      "Insulin -> Humalog sliding scale with lunch and dinner, Lantus 125 units q HS; Metformin 1000 mg bid; Diovan 320 mg daily; Atenolol 100 mg daily; Lipitor 10 mg daily; Norvasc 5 mg daily; MVI; Iron supplement"
+    "medications": [],
+    "insulin -> humalog sliding scale with lunch and dinner, lantus 125 units q hs": [
+      "Metformin 1000 mg bid; Diovan 320 mg daily; Atenolol 100 mg daily; Lipitor 10 mg daily; Norvasc 5 mg daily; MVI; Iron supplement"
     ],
     "allergies": [
       "Sulfa -- unknown Morphine -- headaches Kiwi -- itchy tongue Denies food, latex allergies"
@@ -3027,10 +3039,12 @@
       "NKA"
     ],
     "admit diagnosis": [
-      "R leg pain",
-      "PRINCIPAL DISCHARGE DIAGNOSIS;",
-      "Responsible After Study for Causing Admission) Right LE pain",
-      "OTHER DIAGNOSIS;",
+      "R leg pain"
+    ],
+    "principal discharge diagnosis": [
+      "Responsible After Study for Causing Admission) Right LE pain"
+    ],
+    "other diagnosis": [
       "Conditions, Infections, Complications, affecting Treatment / Stay",
       "DM"
     ],

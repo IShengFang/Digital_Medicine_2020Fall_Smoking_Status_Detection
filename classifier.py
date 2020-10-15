@@ -52,6 +52,17 @@ def parse_raw(folder, savefile=True):
                             data[key.lower()] = values
                         key = line[:-1]
                         values = []
+                    elif line.endswith(';') and line[-2].isupper():
+                        if key is not None:
+                            data[key.lower()] = values
+                        key = line[:-1]
+                        values = []
+                    elif line.find(';')!=-1 and line[line.find(';')-1].isupper():
+                        if key is not None:
+                            data[key.lower()] = values
+                        separator = line.find(';')
+                        data[line[:separator].lower()] = [line[separator+1:].strip()]
+                        key, values = None, []
                     elif re.findall(r'^\d+\s*[a-zA-Z]*$', line) and key is None:
                         data['garbage_infos'] += line.split(' ')
                     elif line.startswith('*****'):
