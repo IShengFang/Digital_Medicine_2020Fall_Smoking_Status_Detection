@@ -176,7 +176,7 @@ if __name__ == '__main__':
         pred.append(predict(t, smoke_kw, neg_kw, stop_kw))
     print(f'Acc on training set: {accuracy_score(gt, pred)}')
 
-    cm = confusion_matrix(gt, pred, [0, 1, 2, 3])
+    cm = confusion_matrix(gt, pred, labels=[0, 1, 2, 3])
     plot_confusion_matrix(cm, LABEL)
     print('Confusion matrix on training set -> saved to cm.png')
 
