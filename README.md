@@ -1,36 +1,36 @@
 # Digital Medicine 2020 Fall: Smoking Status Detection
 
-# About the Assignment
+## Task
 
-_blablabla 欸幫忙寫一下這邊啦_
+Design an analysis flow for smoking status classifiers.
 
-# Environment
+## Environment
 
 - Windows 10
 - Python 3.7.5
 
-## Packages
+### Packages
 
 - matplotlib == 3.1.2
 - scikit-learn >= 0.22.1
 - seaborn == 0.10.0
 
-# Prerequsites
+## Prerequsites
 
 ```
 pip3 install -r requirements.txt
 ```
 
-# Usage
+## Usage
 
 ```
 python3 classifier.py
 ```
 執行完之後會輸出 training data 的 confusion matrix（cm.png），並將 40 筆 testing data 的 prediction 寫入 case1_1.txt
 
-# Our method
+## Our method
 
-## Rule-based classifier
+### Rule-based classifier
 
 1. 建立三個 dictionary
     - smoke_kw.txt：抽菸、香菸相關詞
