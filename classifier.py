@@ -131,7 +131,9 @@ def predict(data, smoke_kw, neg_kw, stop_kw):
         has_stop = False
         for w in words:
             if w in smoke_kw:
-                if has_neg:
+                if has_neg and has_stop:
+                    count[CURRENT_SMOKE] += 1
+                elif has_neg:
                     count[NON_SMOKE] += 1
                 elif has_stop:
                     count[PAST_SMOKE] += 1
