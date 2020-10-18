@@ -18,15 +18,15 @@ Design an analysis flow for smoking status classifiers.
 ## Prerequsites
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```
-python3 classifier.py
+python classifier.py
 ```
-執行完之後會輸出 training data 的 confusion matrix（cm.png），並將 40 筆 testing data 的 prediction 寫入 case1_1.txt
+執行完之後會在 terminal 顯示 training data 的 accuracy 與 classification report，並將 confusion matrix 視覺化（cm.png），同時也會把 40 筆 testing data 的 prediction 寫入 case1_1.txt
 
 ## Our method
 
