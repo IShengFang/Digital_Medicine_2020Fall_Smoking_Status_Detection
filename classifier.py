@@ -155,7 +155,7 @@ def predict(data, smoke_kw, neg_kw, stop_kw):
 
 def plot_confusion_matrix(cm, labels):
     plt.title('Confusion Matrix')
-    ax = seaborn.heatmap(cm, annot=True, cmap="YlGnBu")
+    ax = seaborn.heatmap(cm, annot=True, cmap='Blues', fmt='d')
     ax.set_xticklabels(labels, rotation=45)
     ax.set_yticklabels(labels, rotation=0)
     ax.set(ylabel='Ground truth', xlabel='Prediction')
