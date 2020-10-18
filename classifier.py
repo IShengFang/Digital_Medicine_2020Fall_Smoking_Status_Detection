@@ -7,7 +7,7 @@ import seaborn
 import operator
 import matplotlib.pyplot as plt
 from os.path import normpath, basename
-from sklearn.metrics import accuracy_score, confusion_matrix
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 CURRENT_SMOKE = 0
 NON_SMOKE = 1
@@ -179,6 +179,7 @@ if __name__ == '__main__':
     for t in train:
         pred.append(predict(t, smoke_kw, neg_kw, stop_kw))
     print(f'Acc on training set: {accuracy_score(gt, pred)}')
+    print(classification_report(gt, pred))
 
     cm = confusion_matrix(gt, pred, labels=[0, 1, 2, 3])
     plot_confusion_matrix(cm, LABEL)
